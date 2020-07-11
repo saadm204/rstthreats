@@ -1,1 +1,0 @@
-{"threat10":{"iocs":{"file":{"g.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"160e1bda0d46402a0d7e4cafd96143970a28df1eff9c938166489fa6d785e1e1":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-13 00:00:00"}}

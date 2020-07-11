@@ -1,1 +1,0 @@
-{"threat5":{"iocs":{"file":{"browserguncellemesi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"http://browserguncellemesi.com/browserguncellemesi.apk":{"type":"url","role":"unknown"}},"hash":{"a8f523a87a256f37024a21e649ae249b268a1c7a8c2dc8039fe12f1176d5c407":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-20 00:00:00"}}

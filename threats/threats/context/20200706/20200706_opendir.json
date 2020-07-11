@@ -1,1 +1,0 @@
-{"opendir":{"iocs":{"file":{"android-guncelle.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"safepage.cloud/tr":{"type":"url","role":"unknown"}},"hash":{"7f8ad847029236de510734396d67eb178e788ed261a863f9cba611da6835402f":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-07-06 00:00:00","id":729699880668942337}}

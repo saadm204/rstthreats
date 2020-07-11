@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"netflixgratis.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"67f8f7e8f0ade8428d303a93b57c681b37b8242b545c9e100ee8d893b215a6f3":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-19 00:00:00"}}

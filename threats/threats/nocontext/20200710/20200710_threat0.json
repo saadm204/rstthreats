@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"updateversionv13.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"a7bffddcd815055c8e49df6a779503dcad16e6b351a64fcaf24961862b7014f0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-10 00:00:00","id":731252169980432385}}

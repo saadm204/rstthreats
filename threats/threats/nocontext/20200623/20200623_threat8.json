@@ -1,1 +1,0 @@
-{"threat8":{"iocs":{"file":{"_.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"a0421a4137b437914c258130c20dcaf00191f3c1b16bd6dc5d6a5ca149cf0baa":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-23 00:00:00"}}

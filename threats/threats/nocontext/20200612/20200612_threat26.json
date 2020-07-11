@@ -1,1 +1,0 @@
-{"threat26":{"iocs":{"file":{"instagramalma.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"e726bfbf77ed1866829e13b745cd7e3e43339e35ba8f5e3add26d0071211e3fb":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

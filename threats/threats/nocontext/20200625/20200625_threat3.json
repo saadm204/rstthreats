@@ -1,1 +1,0 @@
-{"threat3":{"iocs":{"file":{"hes.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://hesislemleri.com/hes.apk":{"type":"url","role":"unknown"}},"hash":{"6c3db02a803784285fab9183347666c310fc3df2ceacbbdc627412886f0356e0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-25 00:00:00","id":725882333972582402}}

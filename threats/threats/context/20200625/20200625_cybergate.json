@@ -1,1 +1,0 @@
-{"cybergate":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"2542b46508331616e44cda1d9f68a8deb0c334b60c2219198de695ca7197be5b":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-06-25 00:00:00","id":725882333976776705}}

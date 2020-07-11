@@ -1,1 +1,0 @@
-{"threat9":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"https://covid19quarantin.com/gost.exe":{"type":"url","role":"none"}},"hash":{"aee048b20edd9abb8eff89b51d3c20e4ae4bfb9df25ca920cb9348f4d98ec3db":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

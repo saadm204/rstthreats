@@ -1,1 +1,0 @@
-{"threat35":{"iocs":{"file":{"gplay protect v.8.8.05.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"af88e2f1770e8781248103107e2713fb228e12e83fbbe3f80b9bcb3da838e9d9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-03 00:00:00","id":728715464127729664}}

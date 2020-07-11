@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{"performance increaser.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7e2ff850b046391b19861046e7110c97a183f64225ba1606fb24bc618e376c50":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-27 00:00:00","id":726541130802057217}}

@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"https://facebookdata-1301476296.cos.na-ashburn.myqcloud.com/icon.png":{"type":"url","role":"c2"}},"hash":{}},"tags":[],"collect":"2020-06-23 00:00:00"}}

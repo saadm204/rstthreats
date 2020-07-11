@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"personal-wallet.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"c811b126700bbce109ea3b80f7bc1f1e6e41df795893a3028e53d473e5597a1e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-23 00:00:00"}}

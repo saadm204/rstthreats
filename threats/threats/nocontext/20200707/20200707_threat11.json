@@ -1,1 +1,0 @@
-{"threat11":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"googlepla.ddns.net/pj-id.apk":{"type":"url","role":"unknown"}},"hash":{"3ea883f7186c419ac4efe64af4f0f47603fa3791c657c4e131f9bad4e25bc277":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-07 00:00:00","id":730032889389568001}}

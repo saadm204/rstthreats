@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"packed.jiagu":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"c79e5bbf390592682ee603588a949a15e58d0374d02a985f45209096af161d44":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-25 00:00:00","id":725882333976776706}}

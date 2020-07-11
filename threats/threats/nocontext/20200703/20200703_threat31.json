@@ -1,1 +1,0 @@
-{"threat31":{"iocs":{"file":{"pandemi destek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5373071a559daa26515f18ddf78d73cea3a6f3d78aec93f61cf6f00fcd8a459a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-03 00:00:00","id":728715464127729668}}

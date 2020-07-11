@@ -1,1 +1,0 @@
-{"threat3":{"iocs":{"file":{"microsoftword.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"9bb97ff2353dda855c79e3098447e1aefd2606f7b2a74197f74221de6960bba0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-20 00:00:00"}}

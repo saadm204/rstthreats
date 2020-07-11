@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{"v-alert.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://bitbucket.org/yedek/asfkjasfjk/downloads/":{"type":"url","role":"unknown"}},"hash":{"01a0401642f0fecf3741bbbb696876e3":{"type":"md5","role":"unknown"}}},"tags":[],"collect":"2020-06-24 00:00:00","id":725453965514952705}}
