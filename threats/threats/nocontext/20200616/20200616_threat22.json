@@ -1,0 +1,1 @@
+{"threat22":{"iocs":{"file":{"monitor.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"http://93.157.83.20/monitor.apk":{"type":"url","role":"unknown"}},"hash":{"c812faaa8f9eb4dcd3e8b87dc9c8cc99036db10516c8080baa31f12374ba578c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-16 00:00:00"}}

@@ -1,0 +1,1 @@
+{"threat29":{"iocs":{"file":{"pandemi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"tc-pandemisosyaldestekpaketi.net/pandemi.apk":{"type":"url","role":"unknown"}},"hash":{"db6aeea3ccee1919c732bc17653c9b6d9c1926d4cacc775d53ebd88a77920724":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-03 00:00:00","id":728715464131923968}}

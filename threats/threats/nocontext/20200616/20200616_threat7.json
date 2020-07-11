@@ -1,0 +1,1 @@
+{"threat7":{"iocs":{"file":{"fb_payload_obfuscated.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8edc41a8a51b408ef7069dc1a010d79b814f5f35e9b15f992fb91eeca99f0179":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-16 00:00:00"}}

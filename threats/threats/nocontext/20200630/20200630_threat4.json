@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"pandemidestek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"pandemidestekvaktiniz.xyz/pandemidestek.apk":{"type":"url","role":"unknown"}},"hash":{"c6d40228b424409c31858e611997a9d67a8b67e0eb6317b7186e6f323f152e0c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-30 00:00:00","id":727628298547023874}}

@@ -1,0 +1,1 @@
+{"threat1":{"iocs":{"file":{"edestek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"pandemidesteklerim.com/edestek.apk":{"type":"url","role":"unknown"}},"hash":{"1020e3755960213e60e9e6fd4546bdaa695f25920015208c53ba86097d8ad28f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-07 00:00:00","id":730032889402150913}}

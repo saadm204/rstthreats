@@ -1,0 +1,1 @@
+{"masslogger":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"http://klisa.com.tr/south.vbs":{"type":"url","role":"unknown"},"https://opticaoptigral.cl/voice.jpg":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-06-25 00:00:00","id":725882333972582404}}

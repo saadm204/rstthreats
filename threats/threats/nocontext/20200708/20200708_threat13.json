@@ -1,0 +1,1 @@
+{"threat13":{"iocs":{"file":{"shop_samsung.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5ce76d6c80043b2f7b9002da24f65114f2f93e5742797018eb5fce18da0ec4f0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-08 00:00:00","id":730527394303758336}}

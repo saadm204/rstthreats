@@ -1,0 +1,1 @@
+{"threat15":{"iocs":{"file":{"googleplayprotect.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"macaf.ru/googleplayprotect.apk":{"type":"url","role":"unknown"}},"hash":{"f7595d70eb5e153b61c8c52473c89feb66b9ad4954156f8f2f65b260a28c0bbf":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-06 00:00:00","id":729699880664748032}}

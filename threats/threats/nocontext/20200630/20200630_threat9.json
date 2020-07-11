@@ -1,0 +1,1 @@
+{"threat9":{"iocs":{"file":{"googleplayprotect.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"d96699fbb0eee7eec4068a149de349eddc066f6ac923641ed945bb04a3e438ee":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-30 00:00:00","id":727628298555412481}}

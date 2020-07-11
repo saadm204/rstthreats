@@ -1,0 +1,1 @@
+{"threat11":{"iocs":{"file":{"5kbonus_obf.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"0bf7e5d757b4ba63cd845b7e39eb703ac957ff17659377f7c061f307044fea87":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-19 00:00:00"}}

@@ -1,0 +1,1 @@
+{"threat28":{"iocs":{"file":{"newdigitaladstradingplatform.pif":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"f6262c14a5f6c845a95cab29a6e1e2a662d5df47499935c1f050d908ee01db90":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

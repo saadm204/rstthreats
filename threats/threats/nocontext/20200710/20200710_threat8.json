@@ -1,0 +1,1 @@
+{"threat8":{"iocs":{"file":{"pandemi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"aile-ve-sosyaltr-destekpandemisi.com/aile/destek":{"type":"url","role":"unknown"}},"hash":{"e000dd12434a11d8c067e5acb7e16ca4a5a50e6d35340ba89b96b9484019852c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-10 00:00:00","id":730938113495060482}}

@@ -1,0 +1,1 @@
+{"threat18":{"iocs":{"file":{"pandemibasvuru.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{"http://mobil-pandemi-duyuru.ml/pandemibasvuru.apk":{"type":"url","role":"none"}},"hash":{"900b22a14aa4b8fc17898484628d524e":{"type":"md5","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

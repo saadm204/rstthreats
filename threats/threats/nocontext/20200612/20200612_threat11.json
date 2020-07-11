@@ -1,0 +1,1 @@
+{"threat11":{"iocs":{"file":{"pandemi.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{"https://ssyal-dstk-pandemi.com/pandemi.apk":{"type":"url","role":"none"}},"hash":{"3d6045b927ef4c380c6d1e7728ec0b686a4101d4ee89949939a14eb652848fe3":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

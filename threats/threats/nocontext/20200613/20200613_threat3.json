@@ -1,0 +1,1 @@
+{"threat3":{"iocs":{"file":{"spyingtool.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"ec8686e81e1c706f37cfa1a4ed2e18aa3daeaae3ed90270b657e80b44c9d3241":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-13 00:00:00"}}

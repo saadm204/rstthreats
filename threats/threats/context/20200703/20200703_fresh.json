@@ -1,0 +1,1 @@
+{"fresh":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"usr-telemetry-microsoft.com/rundun":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-07-03 00:00:00","id":728715464148701185}}

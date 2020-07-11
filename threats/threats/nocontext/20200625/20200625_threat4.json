@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"hediye20gb.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"4e011d921b558b8a7b384fe57e51f703":{"type":"md5","role":"unknown"}}},"tags":[],"collect":"2020-06-25 00:00:00","id":725882333972582403}}

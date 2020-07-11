@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"download.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"http://dskjds.info/dl/download.apk":{"type":"url","role":"unknown"}},"hash":{"bdf2c16797b26d90ce6faaf7f51a5e7b96805ee78a06aceb219d2c84fa1f5e66":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-16 00:00:00"}}

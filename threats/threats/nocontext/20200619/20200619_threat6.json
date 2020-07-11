@@ -1,0 +1,1 @@
+{"threat6":{"iocs":{"file":{"20gbyukle.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://operatordesteklericimer.com/apk/20gbyukle.apk":{"type":"url","role":"unknown"}},"hash":{"7dae82ec1d00c0639a6c271d32aa456addcf4d18abd973210a007eb96b9b9370":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-19 00:00:00"}}

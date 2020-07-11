@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"inpost_mobile.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"www.inpost.page/download/inpost_mobile.apk":{"type":"url","role":"unknown"}},"hash":{"e06f9c6227ed47e1541af2ba12fb19f3b19496acb8c6978109c5cd60531e6d7f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-06 00:00:00","id":729699880639582209}}

@@ -1,0 +1,1 @@
+{"threat7":{"iocs":{"file":{"pandemi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"traile-sosyal-destegimiz-pandemi.com/pandemi.apk":{"type":"url","role":"unknown"}},"hash":{"f139b612f6cf98c069eb69eb1231ac7c0f474a102a63c2897cc3650b08b34f65":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-06 00:00:00","id":729699880647970817}}

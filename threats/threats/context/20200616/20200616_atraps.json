@@ -1,0 +1,1 @@
+{"atraps":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"269f6c1a85dd63674c59d1627c6603b8c41518582942ae53b4ec58c65f445030":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-06-16 00:00:00"}}

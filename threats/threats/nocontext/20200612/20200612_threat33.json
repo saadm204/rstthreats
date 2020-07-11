@@ -1,0 +1,1 @@
+{"threat33":{"iocs":{"file":{"vodafone-5g.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{"http://www-saglikbakanligi.xyz/vodafone-5g.apk":{"type":"url","role":"none"}},"hash":{"a1e63ac35300c1719f8ee83b8db97e9f":{"type":"md5","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}
