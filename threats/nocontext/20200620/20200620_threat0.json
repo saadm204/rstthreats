@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"googleplay.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://bedava20gbintrnt.com/googleplay.apk":{"type":"url","role":"unknown"}},"hash":{"4140a239cb400605da0b971f9ec14854030f0327dc8481ca5cdc27b90c3bfc8e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-20 00:00:00"}}

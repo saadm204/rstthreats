@@ -1,0 +1,1 @@
+{"threat11":{"iocs":{"file":{"aile destek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7de6a73342b0bd4b112d8fe98017c53066ec9e687a481323d87766add14c7765":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-10 00:00:00","id":730938113482477568}}

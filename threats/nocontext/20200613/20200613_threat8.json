@@ -1,0 +1,1 @@
+{"threat8":{"iocs":{"file":{"evdekaliyorum.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{"https://sdf32dfs.s3.eu-central-1.amazonaws.com/evdekaliyorum.apk":{"type":"url","role":"none"}},"hash":{"67405e64fa9077eb1b37470722998fbbe74b33d35acdfac36f14c228734ff2d7":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-13 00:00:00"}}

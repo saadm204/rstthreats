@@ -1,0 +1,1 @@
+{"zhacker13_reversetcpshell":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"137730fcd7bbcc27eb6245643d8f0f7253357708098302bebe5d9cb79295e936":{"type":"sha256","role":"none"}}},"tags":["malware"],"descr":"","collect":"2020-06-12 00:00:00"}}

@@ -1,0 +1,1 @@
+{"anubis":{"iocs":{"file":{"pandemibasvuru.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"http://pandemi-destek-hizmeti.net/pandemibasvuru.apk":{"type":"url","role":"unknown"}},"hash":{"ee83fd4db1ee4489511a9867b1c33f22":{"type":"md5","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-06-18 00:00:00"}}

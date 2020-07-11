@@ -1,0 +1,1 @@
+{"threat14":{"iocs":{"file":{"pandemi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"desteklerimiztr-aile-sosyalwebtr.net/pandemi.apk":{"type":"url","role":"unknown"}},"hash":{"de9aaa13f8eea872b65040dd77e24d70db8cccf7f9c5b9e42a7169c8f3fb759e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-06 00:00:00","id":729699880647970820}}

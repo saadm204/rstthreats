@@ -1,0 +1,1 @@
+{"threat7":{"iocs":{"file":{"zoom code generator updated daily 2020.exe":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"a4f4eb5d5beef253dec955c0c0c77c386081202b636d21938f8afc512ed4a043":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

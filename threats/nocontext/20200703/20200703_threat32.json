@@ -1,0 +1,1 @@
+{"threat32":{"iocs":{"file":{"hw-privify-fud-1593494449.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"64905ad7b0f635efb0402d57d0b0d7d31832ca66afac2fe17379877004a32e73":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-03 00:00:00","id":728715464127729667}}

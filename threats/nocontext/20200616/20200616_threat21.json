@@ -1,0 +1,1 @@
+{"threat21":{"iocs":{"file":{"mcafee.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://aleynatilkiporn.com/mcafee.apk":{"type":"url","role":"unknown"}},"hash":{"66427521c50cd888548749f8527a3b503e9f381e49715a8c6d080689f22f3ad9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-16 00:00:00"}}

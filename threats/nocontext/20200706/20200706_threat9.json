@@ -1,0 +1,1 @@
+{"threat9":{"iocs":{"file":{"whatsappbomber.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"0cf23dcf0c9ea86073f6f0021702a956e99da729a26ae6e2ab8578ec77786278":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-06 00:00:00","id":729699880647970819}}

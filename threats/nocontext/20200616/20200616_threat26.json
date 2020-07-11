@@ -1,0 +1,1 @@
+{"threat26":{"iocs":{"file":{"20gbgift.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://malaysia20gbgift.com/apk/20gbgift.apk":{"type":"url","role":"unknown"}},"hash":{"af7b1e20efbcece4baf1ce1dc3c826bc1ff16889e2e36f16ebb16addddb0dc63":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-16 00:00:00"}}

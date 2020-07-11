@@ -1,0 +1,1 @@
+{"threat17":{"iocs":{"file":{"secured_mail.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"a65e7dd61722b460076c0a5b42663cae36053c38b5784f4958f14b9effe77e02":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

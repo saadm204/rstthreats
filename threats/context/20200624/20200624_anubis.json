@@ -1,0 +1,1 @@
+{"anubis":{"iocs":{"file":{"pandemi-destek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"http://sosyalkampanya2.ml/pandemi/pandemi-destek.apk":{"type":"url","role":"unknown"}},"hash":{"ba7b1ba0830e11da60dec1c90632515d":{"type":"md5","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-06-24 00:00:00","id":725453965498175489}}

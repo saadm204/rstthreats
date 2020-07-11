@@ -1,0 +1,1 @@
+{"threat14":{"iocs":{"file":{"noton antivirus-fud2 zipped signed.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7882e49ce98ee4bb4c9f9c5f42cb6dc60df29e10446a9bf614a92cc2b7925071":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-03 00:00:00","id":728715464140312578}}

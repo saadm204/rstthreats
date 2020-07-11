@@ -1,0 +1,1 @@
+{"threat12":{"iocs":{"file":{"loop.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://loopkendiesinizibulun.xyz/58e482246c5fb6426489b990b1057fe1/loop.apk":{"type":"url","role":"unknown"}},"hash":{"5632a988130f417aa1a2a1bd99269df5d2db0c0f0a8d10155b985967dc7bb3b7":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-23 00:00:00"}}

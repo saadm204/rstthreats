@@ -1,0 +1,1 @@
+{"threat7":{"iocs":{"file":{"telegram.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://da701f8269f8.ngrok.io/telegram.apk":{"type":"url","role":"unknown"}},"hash":{"c3f9441d3b6f08205a0565f19b7732188e9df700ae073d63dcbc6d7f47eb7f98":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-24 00:00:00","id":725453965519147008}}

@@ -1,0 +1,1 @@
+{"ransomware":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"itsmeyourfriendhi.ga/1.exe":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-06-30 00:00:00","id":727628298576384002}}
