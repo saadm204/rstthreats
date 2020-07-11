@@ -7,5 +7,5 @@ Aggregated Indicators of Compromise collected and cross-verified from multiple o
 Our mission is to help cybersecurity experts to consolidate their knowledge about all publicly available threat intelligence sources in one convenient service.  
 It is important to respond promptly to every new emerging threat. We provide full context around triggered indicators of compromise to fulfil the needs of quick and informed decision.
 
-See our site [RST Cloud](https://rstcloud.net)
+See our site [RST Cloud](https://rstcloud.net)  
 Our Telegram bot: *@IOCFeedBot*
