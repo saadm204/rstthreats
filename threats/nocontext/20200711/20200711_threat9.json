@@ -1,0 +1,1 @@
+{"threat9":{"iocs":{"file":{"pandemi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"evdekal-destekalgov.net/pandemi.apk":{"type":"url","role":"unknown"}},"hash":{"3549cea95ec003eed01fdea693f160ec73d2d3c455544557a0c8b98969f1551c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-11 00:00:00","id":731614553416847363}}
