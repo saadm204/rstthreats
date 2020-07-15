@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"cevirdikce kazan.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"b45b6a1f606f2c136ac0b121f8547254290d30db1a5c3f13525a53fd94dd26c6":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-14 00:00:00","id":732701733384015874}}

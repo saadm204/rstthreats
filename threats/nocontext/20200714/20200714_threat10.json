@@ -1,0 +1,1 @@
+{"threat10":{"iocs":{"file":{"system-service.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"d41d89ef814b64729856fd42e75927bd25921353dad4f3df5839552b1c58b6f8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-14 00:00:00","id":732701733451124736}}

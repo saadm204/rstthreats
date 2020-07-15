@@ -1,0 +1,1 @@
+{"threat8":{"iocs":{"file":{"video extension.s.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"bf2885e41efd6396d1d14d93b8c7e25f1d03cd62926325901b8b027a8715e64d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-14 00:00:00","id":732701733409181699}}
