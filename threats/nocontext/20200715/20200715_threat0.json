@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"20gbhediyeinternet.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"20gbhediniz.online/yukletr/20gbhediyeinternet.apk":{"type":"url","role":"unknown"}},"hash":{"6b9d7d6258ab2c06167a43cbff62c6f8":{"type":"md5","role":"unknown"}}},"tags":[],"collect":"2020-07-15 00:00:00","id":733064108394074114}}
