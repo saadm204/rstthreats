@@ -1,0 +1,1 @@
+{"threat7":{"iocs":{"file":{"antivirus malware removal free-1.0.6.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"90fd9f7aa9aa04713bf6f97f959d060d29d10474ac704d580f873067194db78c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-16 00:00:00","id":733426498050641921}}
