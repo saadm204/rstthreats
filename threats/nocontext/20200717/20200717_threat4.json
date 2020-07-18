@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"full-permision.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"f4a7eae44413a050b2e0af7f22bb7aee486eff7bdb248e97bff53b0bc5d2129e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-17 00:00:00","id":733788879368933378}}

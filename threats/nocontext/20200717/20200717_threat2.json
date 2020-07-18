@@ -1,0 +1,1 @@
+{"threat2":{"iocs":{"file":{"visualizar_intimacao_0324485.pdf.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5413b501fd04fc4b4e3492b79c2f0d9dafdf10a73f7a53b953ff83ab2df2bc49":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-17 00:00:00","id":733788879364739074}}

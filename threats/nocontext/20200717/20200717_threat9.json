@@ -1,0 +1,1 @@
+{"threat9":{"iocs":{"file":{"cryptonewsrestriction.pif":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"9257415575d2a485de9787466a10636a920134f18dd617231373173dc88a6a20":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-17 00:00:00","id":733788879368933383}}

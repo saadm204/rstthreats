@@ -1,0 +1,1 @@
+{"threat8":{"iocs":{"file":{"evdekaliyorum.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"faaaaaaaaswwwwwws.t.co/mhealvlsmp":{"type":"url","role":"unknown"}},"hash":{"870cccc25be5f00005328aae66da38d2":{"type":"md5","role":"unknown"}}},"tags":[],"collect":"2020-07-17 00:00:00","id":733788879368933382}}
