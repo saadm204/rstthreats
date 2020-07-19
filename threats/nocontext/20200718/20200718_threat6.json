@@ -1,0 +1,1 @@
+{"threat6":{"iocs":{"file":{"gfit_1_crypt_signed_oudvpvl.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"c1bb117988083f23846cb0c7f23b2e1665cbfd1ef148c52c5a8b88888f59d4bd":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-18 00:00:00","id":734151269835001856}}
