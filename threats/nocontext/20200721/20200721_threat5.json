@@ -1,0 +1,1 @@
+{"threat5":{"iocs":{"file":{"update.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"actualizarahora.xyz/update.apk":{"type":"url","role":"unknown"}},"hash":{"c9ef158b059e4a7b677d79a43c2d95e25995524c050f34dee00af98551d6ed0a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-21 00:00:00","id":735238436095184896}}

@@ -1,0 +1,1 @@
+{"threat13":{"iocs":{"file":{"1243497_612156__superhero_skins_new3_getjar_1.0-release.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"53ada8f8579ac3894896b053ecc577e43215bc84572780f2f74fb737d4a583a3":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-21 00:00:00","id":735238436137127936}}

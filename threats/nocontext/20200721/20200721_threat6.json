@@ -1,0 +1,1 @@
+{"threat6":{"iocs":{"file":{"1238506_601481__app-release-v3.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8ad0dace8222741773961fcc777791d4b297d7638ee36863664cf7d9e15d10d9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-21 00:00:00","id":735238436103573504}}
