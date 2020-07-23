@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"threema-v4-0-build-2000494-apk.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"67d6ebab47446afbf14ae9037fd559c3122c1f7453b77eae1d07ae5d56f3ccee":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-22 00:00:00","id":735600818076176385}}

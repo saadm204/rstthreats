@@ -1,0 +1,1 @@
+{"threat1":{"iocs":{"file":{"kbcapital.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"111.250.160.6/kbcapital.apk":{"type":"url","role":"unknown"}},"hash":{"3ad29ba4178cfaf3af409e0f58fdee43076964183509e072c71010f2cc57a6e1":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-22 00:00:00","id":735600818051010561}}
