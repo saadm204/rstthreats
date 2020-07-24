@@ -1,0 +1,1 @@
+{"threat5":{"iocs":{"file":{"covid19.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"covidbet19.net/assets/mobile/covid19.apk":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-07-23 00:00:00","id":735963209892810752}}
