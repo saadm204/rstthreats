@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"paypalfree.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"cf071549df9491cb2e87396f5315e3e39e145ca9858fc510508cdaaf5e69546a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-24 00:00:00","id":736325614288162816}}
