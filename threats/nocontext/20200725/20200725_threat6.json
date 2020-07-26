@@ -1,0 +1,1 @@
+{"threat6":{"iocs":{"file":{"capitalfinancetransactionpaymets.pdf.pif":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"i.imgur.com/sjg8cqz.png":{"type":"url","role":"unknown"}},"hash":{"6cf3ca79d3b6a05beb86f2641a03e9cb5cb8aa9cb085087830b5c27cf26a4fd1":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-25 00:00:00","id":736687986202824704}}
