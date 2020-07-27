@@ -1,0 +1,1 @@
+{"threat8":{"iocs":{"file":{"googleplay.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5f7b033e3514fed252428f29026faa7322b4c64e00a063b3bf7e7db0e1bc0c4a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-26 00:00:00","id":737050372998877186}}
