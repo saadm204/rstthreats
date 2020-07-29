@@ -1,0 +1,1 @@
+{"threat10":{"iocs":{"file":{"allegro_znizki.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"cbb3be8fed512c3fab1bec45da25d4f56a3ff99c922292b998b71ed749946cd8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-28 00:00:00","id":737775146716811267}}

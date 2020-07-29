@@ -1,0 +1,1 @@
+{"threat16":{"iocs":{"file":{"googleplay_obf.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"590e89d900a739260e69de4cc4948f0e78e0fbe97d69114847131e3e89a91cd4":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-28 00:00:00","id":737775146716811264}}

@@ -1,0 +1,1 @@
+{"threat7":{"iocs":{"file":{"paypal-cracker.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"16724edf2dd5cd068fc8cae08aa414e7d179c0b95f33cfa181c0090737eb14dd":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-28 00:00:00","id":737775146725199874}}
