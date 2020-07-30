@@ -1,0 +1,1 @@
+{"threat2":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"209.141.47.92/heyurlhause":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-07-29 00:00:00","id":738137535870062596}}

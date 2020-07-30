@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"covidtracker.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"covid19tracker.ph/covidtracker.apk":{"type":"url","role":"unknown"}},"hash":{"48d25a115142adc7da9c8c6d71b7e638f922b75e380a2ce17fc1d70d6da36e43":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-29 00:00:00","id":738137535874256898}}
