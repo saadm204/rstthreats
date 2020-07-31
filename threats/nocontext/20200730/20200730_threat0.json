@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"online-btk-mobil-cep-giris.tk/btk%20mobil.apk":{"type":"url","role":"unknown"}},"hash":{"1eae68afcf19c3933dce1c479c4447645774c68d2eb282d5a0d855de7ef1261d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-30 00:00:00","id":738499922578034689}}
