@@ -1,0 +1,1 @@
+{"threat5":{"iocs":{"file":{"scribdpremium.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"3c8ecf3be44cd08a705c7f4f5110c65e2e0360da9b6fa43c736e3e2e55adbd13":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-01 00:00:00","id":739224696816062464}}
