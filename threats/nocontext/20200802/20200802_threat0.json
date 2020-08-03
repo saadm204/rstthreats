@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"beta-olx.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6fff9c3bd7798fb11d29333a3cfe28b2f89b04d053f53d823aeb1998c66fe8ef":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-02 00:00:00","id":739587086774620160}}
