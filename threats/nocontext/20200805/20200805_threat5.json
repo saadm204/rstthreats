@@ -1,0 +1,1 @@
+{"threat5":{"iocs":{"file":{"flashplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"www.flahsplayerups.xyz/flashplayer.apk":{"type":"url","role":"unknown"}},"hash":{"c2e5b10c477eab186af357c770bb899316eb7e5e9f02dd3caccd5df10863a974":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-05 00:00:00","id":740674255509442560}}

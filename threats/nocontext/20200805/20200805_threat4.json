@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"adobe-pdf.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"cooperativa-mobile.ml/adobe-pdf.apk":{"type":"url","role":"unknown"}},"hash":{"b015c99ad510c766d7fed64aa18f1ff9a7321f062e9c6d2912144168897d166b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-05 00:00:00","id":740674255505248259}}
