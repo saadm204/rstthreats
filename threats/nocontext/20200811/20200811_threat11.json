@@ -1,0 +1,1 @@
+{"threat11":{"iocs":{"file":{"hediye_20gb_basvuru.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"105285fe4765b038f7d15d6f34b7ecf214f177bd3f13d54871f9bee558fcff04":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-11 00:00:00","id":742889717689405442}}

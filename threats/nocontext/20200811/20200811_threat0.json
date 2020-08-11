@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"allegro.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"9f8a28a80ba719e2829975c489752e8a595aa85ae482ae32e931b86a5f8e8f50":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-11 00:00:00","id":742889717588742146}}

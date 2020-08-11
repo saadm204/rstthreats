@@ -1,0 +1,1 @@
+{"threat7":{"iocs":{"file":{"pandemidestek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"pandemi-destek-paketi.com/pandemidestek.apk":{"type":"url","role":"unknown"}},"hash":{"dc20f7399b2b72085ebb158b3f3ad1a98653a3ba6ff812aade690e04ad11c499":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-11 00:00:00","id":742889717651656705}}

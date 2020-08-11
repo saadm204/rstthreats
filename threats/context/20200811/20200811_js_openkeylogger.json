@@ -1,0 +1,1 @@
+{"js_openkeylogger":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"1509934a83df3893bdec78b272188397f49221f574df4654a720f71449ac72e7":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-08-11 00:00:00","id":742889717651656708}}

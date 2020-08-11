@@ -1,0 +1,1 @@
+{"threat6":{"iocs":{"file":{"payse3nd_obf.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"fb977a4dd46a6a5bae1e764ea20ea0c6547ba64f9e2f73765b24681c145e77d8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-11 00:00:00","id":742889717651656704}}
