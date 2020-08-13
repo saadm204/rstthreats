@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"fudded.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"2c24caa7c50347699df23fbad8a2d83c329312f8206f9cd08a27a6876ab73bd0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-13 00:00:00","id":743384018538123265}}
