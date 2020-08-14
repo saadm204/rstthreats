@@ -1,0 +1,1 @@
+{"threat3":{"iocs":{"file":{"updflashplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"updateflashplayer.network/updflashplayer.apk":{"type":"url","role":"unknown"}},"hash":{"e7a73a732fde2d355c954e26cfabe2bb77872190cf8ab244b07c119680e4098d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-13 00:00:00","id":743573383172247553}}

@@ -1,1 +1,1 @@
-{"threat6":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"eadcb0e0f7f0bacd51f325689471c0c892a0e142f7601372ad8e400809d16961":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-13 00:00:00","id":743384018546511872}}
+{"threat6":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"f53920947bf0f527b2a398fb1ec9bbffbbaa801aaab97cf8f0bc1b518f4e5b2e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-13 00:00:00","id":743573383189024768}}

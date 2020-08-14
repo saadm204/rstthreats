@@ -1,1 +1,1 @@
-{"threat0":{"iocs":{"file":{},"ip":{},"domain":{},"email":{"office@framptoncotterell-pc.gov.uk":{"type":"email","role":"unknown"}},"url":{},"hash":{}},"tags":[],"collect":"2020-08-13 00:00:00","id":743384018533928960}}
+{"threat0":{"iocs":{"file":{"vootpremium-signed.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"b16b6ac39337d2b6dfe136501ef9035d57e824a72c6c5209c554d17ac4f22706":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-13 00:00:00","id":743573383168053248}}
