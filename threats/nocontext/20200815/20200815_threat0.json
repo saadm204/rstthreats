@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"turkcell.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"544a5297d5efe217008806edff219c70a591ddfe6b783d8b68a7a400f7481824":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-15 00:00:00","id":744298135339847681}}

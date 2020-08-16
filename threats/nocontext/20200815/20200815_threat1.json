@@ -1,0 +1,1 @@
+{"threat1":{"iocs":{"file":{"proposalerror.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6e7859a64cff67dcf12c5e092a7d8f3717cb8e072b4e9552bd7a25bc2b4b1302":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-15 00:00:00","id":744298135339847682}}
