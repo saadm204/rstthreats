@@ -1,1 +1,0 @@
-{"ta505":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"usr-telemetry-microsoft.com/rundun":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-06-30 00:00:00","id":727628298555412483}}
