@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"pandemi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"iskurvekredikurumu.com/pandemi.apk":{"type":"url","role":"unknown"}},"hash":{"935d9ecc0a3dae287be1a9bed76547234d511e79341aa0849163a9465f92de50":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-11 00:00:00","id":731614553404264451}}

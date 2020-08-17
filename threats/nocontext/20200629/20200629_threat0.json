@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"speed.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"ba261a41044e11642ff1128e5c4b7ca05325e07710daa2315e43532d55f56160":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-29 00:00:00","id":727269895668682753}}

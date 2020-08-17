@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"0714apk.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"4e93f54de8fa47970b24c6df167073bec39cae3ad839111de2a2544e0a5caa1b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-16 00:00:00","id":733426498038059008}}

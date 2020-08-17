@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{"20gbhediyeinternet.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"full20gb.store/yukle":{"type":"url","role":"unknown"}},"hash":{"f35e50bf06113f07f7046a88770fd4cce4c84106feb458c5d0c5984f5cf71bb8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-07 00:00:00","id":730032889402150914}}

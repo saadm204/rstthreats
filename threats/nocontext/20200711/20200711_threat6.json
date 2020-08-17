@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{"google service.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"feebc03f376a471d19800b6de0f60fba40877edaf0e40ab302046e0d1537c90f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-11 00:00:00","id":731614553416847360}}

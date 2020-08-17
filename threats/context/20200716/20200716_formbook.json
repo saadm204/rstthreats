@@ -1,1 +1,0 @@
-{"formbook":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"36954c94de8c8cf87e8776f5cb2704f4fe6e61ee6392c866d6a136cc20baf42c":{"type":"sha256","role":"unknown"},"5107a4d818198d8026c5dcb33e022a6b5fddbeb388cb0920ff9b867e5db6a202":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-07-16 00:00:00","id":733426498075807747}}

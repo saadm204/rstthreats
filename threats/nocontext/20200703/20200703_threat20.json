@@ -1,1 +1,0 @@
-{"threat20":{"iocs":{"file":{"install.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"921732cc1a51a821011cb4deafdd4a334b6e4bac5ff951745430f980ac1c3c3e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-03 00:00:00","id":728715464102563841}}

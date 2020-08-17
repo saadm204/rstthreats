@@ -1,1 +1,0 @@
-{"threat12":{"iocs":{"file":{"ex on boom.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"567123efab42c6d91639b714d3a4e2db5bc1071c58b645dba7c191f2cc4882f1":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

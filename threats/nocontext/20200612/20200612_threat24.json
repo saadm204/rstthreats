@@ -1,1 +1,0 @@
-{"threat24":{"iocs":{"file":{"aarogya_enstr_enstr.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"3018b43df1398c708b87139ea271995f58e59b8bee38e8f281b77fa556d470bb":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

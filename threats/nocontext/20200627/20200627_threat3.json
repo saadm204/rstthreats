@@ -1,1 +1,0 @@
-{"threat3":{"iocs":{"file":{"allegro.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"sklepplay.net/allegro.apk":{"type":"url","role":"unknown"}},"hash":{"aae721deb1a0181bf9e11a72c84ebb2e5d0a3fe788388350c2f183b0738d86c9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-27 00:00:00","id":726541130802057219}}

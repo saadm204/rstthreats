@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{"set.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"mscbsgob-es.social/set.apk":{"type":"url","role":"unknown"}},"hash":{"0033beddc60129f7bc4758568ab26f23b87c2c9443579c7f2121ba8aa584735a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-16 00:00:00","id":733426498050641920}}

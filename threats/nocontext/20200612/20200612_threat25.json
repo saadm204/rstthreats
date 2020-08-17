@@ -1,1 +1,0 @@
-{"threat25":{"iocs":{"file":{"app-release.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"e544877fcd21b4cf14d13303d895f728e8c7e0cb16b5413263efae8b79463ad2":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

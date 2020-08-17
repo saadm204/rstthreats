@@ -1,1 +1,0 @@
-{"loki":{"iocs":{"file":{},"ip":{},"domain":{},"email":{"admin@uba.ar":{"type":"email","role":"unknown"}},"url":{},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-07-14 00:00:00","id":732701733384015872}}

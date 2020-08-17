@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"tinder_gold_apk.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5918722818b3c60b9e0a73bdb5203b1071d7dfab0782d7789fb4c8582962f25e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-03 00:00:00","id":728715464110952449}}

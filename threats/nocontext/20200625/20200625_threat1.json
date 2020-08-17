@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"e-devlet.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://giristurkiyemerkezimetr.site/e-devlet.apk":{"type":"url","role":"unknown"}},"hash":{"7ea247ab0df734273b5ccababc6cd71a7215dd2da1b09d7d1645cb6a2d77d36e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-25 00:00:00","id":725882333972582400}}

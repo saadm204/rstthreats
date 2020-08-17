@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"nhbank.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"154.206.173.194/nhbank6/app6":{"type":"url","role":"unknown"}},"hash":{"3b6966932ec172a5265af1f5b90f4d90":{"type":"md5","role":"unknown"}}},"tags":[],"collect":"2020-07-03 00:00:00","id":728715464110952457}}

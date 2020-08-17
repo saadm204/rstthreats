@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"iphone.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://may2ufreeiphone.site/iphone.apk":{"type":"url","role":"unknown"}},"hash":{"0be215207fb0070b1a1e67eef83a5fde98801736d7efe18e1f8c4dbe344ea3ca":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-20 00:00:00"}}

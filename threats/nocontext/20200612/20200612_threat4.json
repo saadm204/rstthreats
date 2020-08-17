@@ -1,1 +1,0 @@
-{"threat4":{"iocs":{"file":{"pandemi.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{"http://sosyaldestek-onlinebasvuru-gov.com/pandemi.apk":{"type":"url","role":"none"}},"hash":{"22b17ba1515450375239a287f7a45bf062cbe3bec211b31d66dff915812634f5":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

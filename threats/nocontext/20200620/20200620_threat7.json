@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"30gb.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5f2acf72b4648fbc74fc060d28746451d57b812ec374e1d9a53d18920dc87932":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-20 00:00:00"}}

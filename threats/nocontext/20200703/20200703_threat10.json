@@ -1,1 +1,0 @@
-{"threat10":{"iocs":{"file":{"20gbhediyeinternet.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"ultrahersey.net/us":{"type":"url","role":"unknown"}},"hash":{"b21e961268b5a80b715d8b5bde4cdfa7a6981b49cb440532a72f0bcc8e0da2fb":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-03 00:00:00","id":728715464144506883}}

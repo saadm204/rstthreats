@@ -1,1 +1,0 @@
-{"threat10":{"iocs":{"file":{"telegram red.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6dae1d095fe28cf717ab250580b77daeae27c59a93a8a6ee899829083203eab0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-16 00:00:00","id":733426498075807745}}

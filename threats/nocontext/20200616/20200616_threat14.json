@@ -1,1 +1,0 @@
-{"threat14":{"iocs":{"file":{"goole_service.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"http://103.126.100.18/goole_service.apk":{"type":"url","role":"unknown"}},"hash":{"c7ac6637fbfce954a888db1f0cd34e2fc3ebb53538f63c80763438476d5d4694":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-16 00:00:00"}}

@@ -1,1 +1,0 @@
-{"threat21":{"iocs":{"file":{"wh-app-release-v2.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{"http://175.118.126.113/kp/admin/login/index.html":{"type":"url","role":"none"}},"hash":{"883b8d5113ec6d041e399b2124218330ac653cfda9271d1ce0381d03c82031f7":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

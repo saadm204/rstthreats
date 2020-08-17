@@ -1,1 +1,0 @@
-{"threat23":{"iocs":{"file":{"20gbgift.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{"https://20gbcampaings.tk/apk/20gbgift.apk":{"type":"url","role":"none"}},"hash":{"1067c89eb127193863c7bb19007e774783b7cf7d39d65494d406b91231d56351":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

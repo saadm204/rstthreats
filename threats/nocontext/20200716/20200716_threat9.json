@@ -1,1 +1,0 @@
-{"threat9":{"iocs":{"file":{"cerberus_disguised.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"b7def7aa2f1efd31194492451f32be88836b61035738b441ae6f416f9cb9cee9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-16 00:00:00","id":733426498054836224}}

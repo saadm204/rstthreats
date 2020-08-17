@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{"flashplayer_update11_5_1.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"324a46a66bcb39bb0b342f641748c6aa36656048b75bb7d16915ae604264decd":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-10 00:00:00","id":731252169997209600}}

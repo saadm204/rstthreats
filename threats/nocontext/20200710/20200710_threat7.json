@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"pandemidestek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"www.pandemideguzelgunler.com/pandemidestek.apk":{"type":"url","role":"unknown"}},"hash":{"f30298db4fb28956c4cecd59254856c6":{"type":"md5","role":"unknown"}}},"tags":[],"collect":"2020-07-10 00:00:00","id":730938113495060481}}

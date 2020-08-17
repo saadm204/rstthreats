@@ -1,1 +1,0 @@
-{"threat3":{"iocs":{"file":{"mcafee.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"https://mcafeeprotect.xyz/mcafee.apk":{"type":"url","role":"unknown"}},"hash":{"dabbfdc71efeaf6ee030e913777b5f3ae6991eb0c705de5ff8ba12dd7095ea35":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-19 00:00:00"}}

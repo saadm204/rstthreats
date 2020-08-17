@@ -1,1 +1,0 @@
-{"threat21":{"iocs":{"file":{"googleupdate.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"flahsplayredown.com/googleupdate.apk":{"type":"url","role":"unknown"}},"hash":{"e4bd6a47c91b03327abc343befb629af78ffbde9bee34ce3e1810690899d404d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-03 00:00:00","id":728715464102563840}}

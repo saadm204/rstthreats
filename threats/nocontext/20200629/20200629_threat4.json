@@ -1,1 +1,0 @@
-{"threat4":{"iocs":{"file":{"li_charger.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"e7d36795db84cf7432d0eb58529b946b3644412f7e0688d37578ae6dd558b814":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-29 00:00:00","id":727269895685459968}}

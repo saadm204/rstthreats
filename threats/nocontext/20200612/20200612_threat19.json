@@ -1,1 +1,0 @@
-{"threat19":{"iocs":{"file":{"injected_ddos.apk":{"type":"file","role":"none"}},"ip":{},"domain":{},"email":{},"url":{"http://social-turnips.xyz/injected_ddos.apk":{"type":"url","role":"none"}},"hash":{"5cc3992c4b951e2c2d0cf6f9918e9d3ea1687412a0d310ccde69d074b57a82b6":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{"protect.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"kasperskysecurity.club/google%20play%20protect.apk":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-06-29 00:00:00","id":727269895689654272}}

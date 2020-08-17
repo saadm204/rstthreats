@@ -1,1 +1,0 @@
-{"threat8":{"iocs":{"file":{"dr_web_security_space_v12_6_2_pro.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7a127b9f5d4ba8529301b27d288dbe880947f3429575b4c1ec5c8131e160251c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-18 00:00:00"}}

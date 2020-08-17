@@ -1,1 +1,0 @@
-{"threat12":{"iocs":{"file":{"classes.dex":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"76c36f717aba716bee08d2752fd2471e5797475810fde7b91b62af9b674a299c":{"type":"sha256","role":"unknown"},"4838a4b3157ab9153b4123ee5605e1f9ed5142c432aae8717d52c14d810cfd7c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-16 00:00:00"}}

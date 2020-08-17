@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"fblite.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"69dcb2b4a8adb044514a034bba696b7ea6f2544aadd921f82a161482ad485548":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-12 00:00:00","id":731976942578487298}}

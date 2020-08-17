@@ -1,1 +1,0 @@
-{"threat15":{"iocs":{"file":{"bmwsecurity.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"3a8f31b438fb9791c2e9ee56b3352cd6961e6de4658f7cb973eba0fb5cb402de":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-30 00:00:00","id":727628298572189699}}

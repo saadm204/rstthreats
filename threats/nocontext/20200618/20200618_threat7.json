@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"ob2-app552.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"9b63786aa6edb6df3ed59ee15e2b962fe0305ee26f3a5d495df58f7e3d488402":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-06-18 00:00:00"}}

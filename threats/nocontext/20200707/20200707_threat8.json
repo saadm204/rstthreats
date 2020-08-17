@@ -1,1 +1,0 @@
-{"threat8":{"iocs":{"file":{"allegro.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"playsklep24.net/allegro.apk":{"type":"url","role":"unknown"}},"hash":{"78e09c2114e3bade4c04aa851d346e23b3903e98c481bdc63afb688d776ee9ec":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-07 00:00:00","id":730032889431511042}}

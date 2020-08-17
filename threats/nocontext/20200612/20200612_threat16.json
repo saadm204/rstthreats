@@ -1,1 +1,0 @@
-{"threat16":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"https://cdn.discordapp.com/attachments/718501365948743782/718501689421725766/bruh.exe":{"type":"url","role":"none"}},"hash":{"8a61b2d808adc9a844aa19ef61530c53853cec2d179c1ab7f47cb071483435b4":{"type":"sha256","role":"none"}}},"tags":[],"collect":"2020-06-12 00:00:00"}}

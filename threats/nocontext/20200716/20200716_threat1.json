@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"pubg cheat v7.0.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"3b65ddd343872d2b34fdd5edaf7994a6fb667ca2badded9ee91171d71b253bda":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-16 00:00:00","id":733426498042253312}}
