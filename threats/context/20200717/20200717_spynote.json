@@ -1,1 +1,0 @@
-{"spynote":{"iocs":{"file":{"qui-visite-mon-profil-facebook.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"facebook.monprofil.online/qui-visite-mon-profil-facebook.apk":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-07-17 00:00:00","id":733788879343767552}}

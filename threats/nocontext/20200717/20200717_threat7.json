@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"edestek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"pandemi-sos-yal-des-tek.com/edestek.apk":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-07-17 00:00:00","id":733788879368933381}}
