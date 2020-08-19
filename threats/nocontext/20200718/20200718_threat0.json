@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"1.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"share-file.icu/1.apk":{"type":"url","role":"unknown"}},"hash":{"634d58b6ee455f8273209bf4a841c4f4bb23377d785ebd42bc0ad08420e26e3d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-18 00:00:00","id":734151269826613249}}

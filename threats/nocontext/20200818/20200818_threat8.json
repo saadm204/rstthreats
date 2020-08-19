@@ -1,0 +1,1 @@
+{"threat8":{"iocs":{"file":{"instagram.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"936cd2cf58af2b161e570c9b66a2e9a205ee6ddf24cf6e6d4580db9b094660ba":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-18 00:00:00","id":745385296134852609}}

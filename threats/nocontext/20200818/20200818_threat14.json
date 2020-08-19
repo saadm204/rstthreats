@@ -1,0 +1,1 @@
+{"threat14":{"iocs":{"file":{"cobaltstrike_shellcode.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"b889c77d3c4d2d6b18e40d8464361aa4e9624fd81d7c7f96058c7a2a892a7f7c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-18 00:00:00","id":745385296139046912}}

@@ -1,0 +1,1 @@
+{"threat7":{"iocs":{"file":{"5kabonus.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5001b0780bea67f5e2ce84271015361fa2205a732e152be54c8b665ca3e0cdc0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-18 00:00:00","id":745385296134852608}}
