@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{"system-service.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"90c5d8c8d4e91e18effcf66e90b30283b43d1d5d1d68b6ac60d81e50c13cf5cb":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-19 00:00:00","id":734513657910317056}}

@@ -1,0 +1,1 @@
+{"threat6":{"iocs":{"file":{"adobeflashplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"fgsegrt4.site/11/adobeflashplayer.apk":{"type":"url","role":"unknown"}},"hash":{"370dfc635247cc4dab21721a9347479253b71a7ba31c36f9e8daab8ca2ed2ba5":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-19 00:00:00","id":745747684222750720}}

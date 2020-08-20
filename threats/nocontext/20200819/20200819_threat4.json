@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"candy.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"9b43c1c90bbf046aad9f8a6d5dce4a6fefce5bce4b276d9fb994b44eb07f4eaa":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-19 00:00:00","id":745747684210167814}}

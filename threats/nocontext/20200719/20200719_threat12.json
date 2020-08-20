@@ -1,1 +1,0 @@
-{"threat12":{"iocs":{"file":{"1039992_323883__saldo.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"80bc6c662e3b91de7846feff5ab3c17e25fb74858dc6381c85c961f93b40b4b9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-19 00:00:00","id":734513657901928451}}

@@ -1,0 +1,1 @@
+{"threat1":{"iocs":{"file":{"facebook.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"0bdda3e6ae2ff9e430bc5748c8b8669d2aff1aef24da0b73f8169ab9a328c91d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-19 00:00:00","id":745747684210167810}}

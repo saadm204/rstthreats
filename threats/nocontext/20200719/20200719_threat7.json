@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"deezer_music_player_premium_v6_2_3_96_mod.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8c393364d1f086006005a9f33e31cf54108f0cc1b043e16cbe11c45310575446":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-19 00:00:00","id":734513657914511360}}

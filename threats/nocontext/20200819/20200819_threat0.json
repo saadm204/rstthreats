@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"mlite-debug.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"526aa5e8238d157355e3f1f106de916cc7d86230c66e65d4f4b757618b160c56":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-19 00:00:00","id":745747684210167809}}
