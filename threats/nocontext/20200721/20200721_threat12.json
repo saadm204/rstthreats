@@ -1,1 +1,0 @@
-{"threat12":{"iocs":{"file":{"paylife.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"1b52114ebede110120d0bf4501f8848358fe6ea7d857dd0689ece73b01e7f36e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-21 00:00:00","id":735238436141322242}}

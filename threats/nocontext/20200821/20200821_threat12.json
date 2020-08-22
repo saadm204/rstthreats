@@ -1,0 +1,1 @@
+{"threat12":{"iocs":{"file":{"chrome21082020.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"4c5377d4263f0bf8c51e46d9f24a150f5c41f300bd1d79a48f22efb11571e48b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-21 00:00:00","id":746472460146888704}}

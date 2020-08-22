@@ -1,0 +1,1 @@
+{"threat17":{"iocs":{"file":{"update_16082020_19472_obf.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"00a8eb0a9d56a32926f1e403d49c0c2373b845e2c28ca32e65346f11e0957a67":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-21 00:00:00","id":746472460054614016}}

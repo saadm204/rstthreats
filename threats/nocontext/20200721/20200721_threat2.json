@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{"praca.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"88204c7461d27f21abbf673edd5650415c03844ecee002e1cf847416f0133420":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-21 00:00:00","id":735238436086796289}}

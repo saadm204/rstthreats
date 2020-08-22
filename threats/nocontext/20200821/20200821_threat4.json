@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"app-release.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"26f410a0c0372e40cb2c39a7f061469afc7690b4034377a2caf1d291fcac9d3f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-21 00:00:00","id":746472460067196928}}
