@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"the_new_york_times_files.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"82d2090e3424cf8af294b7a8ca7bbedd9f26268b041667c1d4e9e0d3747bda0a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-23 00:00:00","id":735963209884422146}}

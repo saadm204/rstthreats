@@ -1,1 +1,0 @@
-{"threat11":{"iocs":{"file":{"mon14.0.0.0.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"www.spy-datacenter.com/send_data.php":{"type":"url","role":"unknown"}},"hash":{"d1be492e47d62d6254871179c1d93752dbbcdc7b95470ace2870876068d9ea0e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-23 00:00:00","id":735963209884422144}}

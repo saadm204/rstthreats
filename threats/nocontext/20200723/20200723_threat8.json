@@ -1,1 +1,0 @@
-{"threat8":{"iocs":{"file":{"allegro.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"apkplayonline.com/allegro.apk":{"type":"url","role":"unknown"}},"hash":{"7ef509eafce48357b0305b8cdc9bdf0bbf14db3457086f4a34c4dbc8f02fa4e5":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-23 00:00:00","id":735963209897005058}}

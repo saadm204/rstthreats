@@ -1,1 +1,0 @@
-{"threat10":{"iocs":{"file":{"zoom.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"e5b7a9f39739eb0b96eea27be6e92edbea276cfbb879ff3400fbfc632c741a87":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-23 00:00:00","id":735963209880227842}}

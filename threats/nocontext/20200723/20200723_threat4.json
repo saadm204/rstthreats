@@ -1,1 +1,0 @@
-{"threat4":{"iocs":{"file":{"mcafeesecurity.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"aa756f3182e8fca01e8424751860fa7f25d1f069f6b96587bdd61b968dd673cb":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-23 00:00:00","id":735963209888616453}}

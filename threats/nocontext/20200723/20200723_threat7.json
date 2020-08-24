@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"calc.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"fireeyee.com/reports/fireeye_singapore_apt.docm":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-07-23 00:00:00","id":735963209897005057}}
