@@ -1,0 +1,1 @@
+{"threat2":{"iocs":{"file":{"s.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"zebraking.ddnsking.com/jnj/s.apk":{"type":"url","role":"unknown"}},"hash":{"6168487aeadcf310783f306c7870a7300cc16d063903c34b1998cb5b109c08a1":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-24 00:00:00","id":747559623877906435}}

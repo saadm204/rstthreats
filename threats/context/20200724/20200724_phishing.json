@@ -1,1 +1,0 @@
-{"phishing":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"ia801402.us.archive.org/27/items/henchl/henchl.html":{"type":"url","role":"unknown"}},"hash":{}},"tags":["phishing"],"descr":"Phishing company","collect":"2020-07-24 00:00:00","id":736325614112002048}}

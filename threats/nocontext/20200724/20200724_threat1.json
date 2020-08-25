@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"pandemi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"ailevesosyalhizmetlervakf.com/pandemi.apk":{"type":"url","role":"unknown"}},"hash":{"36fc4b0c5469c8af65f9efdc0d99a1b686a6df9a3e49336177ee73300f62ba5b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-24 00:00:00","id":736325614288162818}}

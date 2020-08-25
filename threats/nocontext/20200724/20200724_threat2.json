@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"tr-dijital-btk-duyurular.tk/sosyal%20hizmet.apk":{"type":"url","role":"unknown"}},"hash":{"efb156389a73cf37b4a391e2178acc85053dff8a6687da988779766a7635e943":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-24 00:00:00","id":736325614288162819}}
