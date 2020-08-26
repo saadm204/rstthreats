@@ -1,1 +1,0 @@
-{"threat3":{"iocs":{"file":{"avito.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"bb35445758786582e80cc3284ed8abd8b981684aadd6d291ab4c132bc2a5fbde":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-25 00:00:00","id":736687986194436099}}
