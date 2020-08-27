@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"inpost_paczkomaty.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"dc03b3f37e6073cabc34ce25d41b5830c4bd84621a648f986fb95072ae7222a8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-26 00:00:00","id":737050372990488580}}

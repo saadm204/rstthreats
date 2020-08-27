@@ -1,1 +1,0 @@
-{"threat4":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"tr-btk-online-giris.ml/btk%20mobil.apk":{"type":"url","role":"unknown"}},"hash":{"86047c4b7cb111e7dc409b5c6bc2f0e57d7ed5980aad9ed3956ae9681ecd6355":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-26 00:00:00","id":737050372994682880}}

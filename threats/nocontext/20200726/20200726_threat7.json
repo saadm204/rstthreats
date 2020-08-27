@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"20gb_hediye_internet.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"f58c8f7463c22896398c15dbe7a95d9567a362e318e29a1880e8306416dd7544":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-26 00:00:00","id":737050372998877185}}

@@ -1,1 +1,0 @@
-{"threat5":{"iocs":{"file":{"androidguncelleme.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"androidguncelleme.net/androidguncelleme.apk":{"type":"url","role":"unknown"}},"hash":{"36e52f826059d8b39b6b53f943daf986766d40eab04c6be67c76fc1c1e5edc6e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-26 00:00:00","id":737050372994682881}}
