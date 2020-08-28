@@ -1,0 +1,1 @@
+{"cythosia":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"www.blackuniverse.eu/2":{"type":"url","role":"c2"}},"hash":{"6d7f3ef876c9088d81bf546a349cb00924953866f5b949d1543aa0dd5da69716":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-08-27 00:00:00","id":748470724769533952}}

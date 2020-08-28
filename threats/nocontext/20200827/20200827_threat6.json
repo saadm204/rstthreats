@@ -1,0 +1,1 @@
+{"threat6":{"iocs":{"file":{"redvelvet-1.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"260ed9a7a2b47da78976a21a8c65108451efe1ace30e3db47fbb4fbf763c0619":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-27 00:00:00","id":748648197054451712}}
