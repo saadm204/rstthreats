@@ -1,1 +1,0 @@
-{"threat15":{"iocs":{"file":{"u-u-oe-oe-oe-oe-u-oe-u-u-oe-u-u-a.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8382634f731c121ca96e2278c81a605eb2628d66c81aa53d3a7143d168ad417b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-28 00:00:00","id":737775146716811266}}

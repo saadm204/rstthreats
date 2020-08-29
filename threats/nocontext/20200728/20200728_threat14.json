@@ -1,1 +1,0 @@
-{"threat14":{"iocs":{"file":{"mcafeesecurity.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"550fa0a38f485871afaf4ee24a28ddd205f04cce50ad4058d5e8f8371a67f3c5":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-28 00:00:00","id":737775146700034048}}

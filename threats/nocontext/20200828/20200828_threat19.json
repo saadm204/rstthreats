@@ -1,0 +1,1 @@
+{"threat19":{"iocs":{"file":{"new_up99573.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7a6a25d60ab9e8f7987b5121a161070e1ad0d629189e7c9dfa3acd7960f44277":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-28 00:00:00","id":749009174526611460}}

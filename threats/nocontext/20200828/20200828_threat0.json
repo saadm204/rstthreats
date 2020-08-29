@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"a-video.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"33adba0498fbc39ac20d334f197b1fde1e70c08259ddee4729d2bab69e1de89e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-28 00:00:00","id":749009174526611458}}
