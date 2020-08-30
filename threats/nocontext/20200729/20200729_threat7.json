@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"club_romance_mod.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"78bf10b6fc425a07f98752010cc9f3f3122a7dfd1c9783ff724a2d5855562ce8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-29 00:00:00","id":738137535882645505}}
