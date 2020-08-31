@@ -1,1 +1,0 @@
-{"recon":{"iocs":{"file":{"07.28.vbs":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"preoccupationology.com/thisshit":{"type":"url","role":"unknown"},"disturbancology.com/info":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-07-30 00:00:00","id":738499922594811905}}

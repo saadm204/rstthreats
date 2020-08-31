@@ -1,1 +1,0 @@
-{"threat5":{"iocs":{"file":{"hes.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"51ed332002791b1cfcfa95f92de3c40d9d0d0c28e86e652de84e01a7de764e07":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-30 00:00:00","id":738499922599006210}}
