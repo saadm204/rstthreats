@@ -1,1 +1,0 @@
-{"threat3":{"iocs":{"file":{"egiftcard_f.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"bashupload.com/chllb/egiftcard_f.apk?download=1":{"type":"url","role":"unknown"}},"hash":{"9e81d847d936080916b973289080f7fe3726b97f803e444c7ea06dd092c57cb0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-31 00:00:00","id":738862311047614469}}

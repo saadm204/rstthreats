@@ -1,0 +1,1 @@
+{"threat3":{"iocs":{"file":{"edestek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7caff340096601c3b42671e295d78ace3550a4e6169476f80b8d60bff719f385":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-31 00:00:00","id":750096362588786688}}

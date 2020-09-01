@@ -1,1 +1,0 @@
-{"threat4":{"iocs":{"file":{"adobe_flash_2020v21113.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"foranymefc.site/mms3/download_2.php":{"type":"url","role":"unknown"}},"hash":{"5f635892ef214d9a6c43e918eacb66553ad6b1f9de3ae5112fe31ac3c515d49b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-07-31 00:00:00","id":738862311051808768}}

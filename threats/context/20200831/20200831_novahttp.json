@@ -1,0 +1,1 @@
+{"novahttp":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"v1rus.xyz/login.php":{"type":"url","role":"c2"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-08-31 00:00:00","id":750096362668478466}}

@@ -1,0 +1,1 @@
+{"ars":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"kitesgcc.com/stater/login.php":{"type":"url","role":"unknown"}},"hash":{"4255ae01c6c434be74c62b6bd8d97c27acd4ef3f53c6e5b9706028ef92b91fb3":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-08-31 00:00:00","id":750096362613952512}}
