@@ -1,0 +1,1 @@
+{"threat28":{"iocs":{"file":{"postnord.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"89eb5f56af547d955fb025e7d5c1bf0231fe41031ef647ea3ff3da003d7d7900":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-01 00:00:00","id":750458727788367873}}

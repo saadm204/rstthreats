@@ -1,0 +1,1 @@
+{"threat42":{"iocs":{"file":{"inpost.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"c4b0548486dd56d725dec9c47e6394ee579e2007002769d17bcab58df0ea3a5e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-01 00:00:00","id":750458727796756482}}

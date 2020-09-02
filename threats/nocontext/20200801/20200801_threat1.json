@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"app-debug.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"dcfd2b61b7f41dce9de3fdee1a546b39af66bb1af9117b7ef798397015d9273a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-01 00:00:00","id":739224696790896641}}
