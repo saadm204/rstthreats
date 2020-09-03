@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"leboncoin.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"fd2f2e2655d725b6946591a3a25b42aca36a9cae6f4a6aaab3010bbd81d1c087":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-02 00:00:00","id":739587086774620161}}

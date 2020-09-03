@@ -1,1 +1,0 @@
-{"threat4":{"iocs":{"file":{"googleplay_obf.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"shurt.pw/2275tldestek":{"type":"url","role":"unknown"}},"hash":{"334279c9b7a024fca1f291d7d364898d513564b6c1472f57a5f4d644ed79be7a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-02 00:00:00","id":739587086778814464}}
