@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"instagram_10.3.1.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"0f9223d06a534324d81a51b633f7299788683af593ae3cf72bd19c8fb259a684":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-04 00:00:00","id":740311873188712454}}
