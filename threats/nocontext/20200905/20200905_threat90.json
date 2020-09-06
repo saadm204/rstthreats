@@ -1,0 +1,1 @@
+{"threat90":{"iocs":{"file":{"kb2.0.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"76e3874fb9f73510a40ba12f265bb9d12a0196953e04b9dcf95157563514b9e1":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-05 00:00:00","id":751899905553518596}}

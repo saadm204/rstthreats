@@ -1,0 +1,1 @@
+{"threat134":{"iocs":{"file":{"kb.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"191.96.60.64/kb.apk":{"type":"url","role":"unknown"}},"hash":{"a441c946753129055ba97f5ca0cb400f43429d444acdfd5f37a3b9d22cddbd64":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-05 00:00:00","id":751899905494798342}}

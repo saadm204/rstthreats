@@ -1,0 +1,1 @@
+{"threat71":{"iocs":{"file":{"karma.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"e907b35f7afd7b96c8e08cd1043622926a205411606a807210a9eb2ab260b562":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-05 00:00:00","id":751899905587073029}}

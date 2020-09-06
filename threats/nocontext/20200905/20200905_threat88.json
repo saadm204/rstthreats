@@ -1,0 +1,1 @@
+{"threat88":{"iocs":{"file":{"flashplayer_12547.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"www.flahsplayreupdate.xyz/download.php":{"type":"url","role":"unknown"}},"hash":{"af1ea4c5d791cd132ea8221e79469a58371a8f47b6fe37d167f2ef4de7b080d8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-05 00:00:00","id":751899905540935685}}

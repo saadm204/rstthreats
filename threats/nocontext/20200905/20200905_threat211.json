@@ -1,0 +1,1 @@
+{"threat211":{"iocs":{"file":{"mon14.0.0.0.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"c68fb1e20589642012528d6c7057887010c34679432698e7cb09e31ef0a719fa":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-05 00:00:00","id":751899905578684422}}
