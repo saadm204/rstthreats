@@ -1,0 +1,1 @@
+{"threat38":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"wh494386.ispot.cc/gulsahindunyasi..apk":{"type":"url","role":"unknown"}},"hash":{"063c57f148be458ebf0c8c7f0d05e0972265e5643277278126e22080f6779ac9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-08 00:00:00","id":752995440909799424}}

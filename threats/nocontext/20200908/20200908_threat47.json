@@ -1,0 +1,1 @@
+{"threat47":{"iocs":{"file":{"akbankdirekt.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"08deea11804ab237a1a9d5d553f46766f9d329b36e1a8b58f0f0f5271bf17ce5":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-08 00:00:00","id":752995440913993737}}

@@ -1,0 +1,1 @@
+{"threat9":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"cdn.discordapp.com/attachments/705509417419800606/752121682751389797/h.es.apk":{"type":"url","role":"unknown"}},"hash":{"6a65eb9583cf073ff1626bdf14754ff73d8ffc7fbc4d6dbca69d0ad06bc285ee":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-08 00:00:00","id":752995440880439306}}
