@@ -1,0 +1,1 @@
+{"threat42":{"iocs":{"file":{"cheat_game_android.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"durungataz.ru/cheat_game_android.apk":{"type":"url","role":"unknown"}},"hash":{"257551891d36d38f7ebe2331fcb32571ba1c573a64c94117bdb8a633c3adf542":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-09 00:00:00","id":753357830344069122}}
