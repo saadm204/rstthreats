@@ -1,0 +1,1 @@
+{"threat31":{"iocs":{"file":{"adobe_flash_2020v25205.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"fillbwyz.site/mms3/download_2.php":{"type":"url","role":"unknown"}},"hash":{"c43ac8162f8b450608353dccfb4f1459a909a52885b9fe3b01bacfe737600014":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-10 00:00:00","id":753720218448744453}}

@@ -1,0 +1,1 @@
+{"threat76":{"iocs":{"file":{"update_4_6_0.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"adobeflashmanager.net/download/update_4_6_0.apk":{"type":"url","role":"unknown"}},"hash":{"de3a3e3e2e0af5273eb01c6db807760e1ad26e73a3088f23f9c73cc54935603d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-10 00:00:00","id":753720218448744452}}
