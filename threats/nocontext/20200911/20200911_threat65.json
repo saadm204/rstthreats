@@ -1,0 +1,1 @@
+{"threat65":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"pipkaboss.xyz/campo/b/b":{"type":"url","role":"c2"}},"hash":{}},"tags":[],"collect":"2020-09-11 00:00:00","id":754082609002893313}}
