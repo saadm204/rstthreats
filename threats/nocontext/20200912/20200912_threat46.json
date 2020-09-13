@@ -1,0 +1,1 @@
+{"threat46":{"iocs":{"file":{"protonvpn.rar":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"179b1e1e420e6b756171199b757f1b6cbaefaaf27381fbf53cb268d1d52a897c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-12 00:00:00","id":754444995819917320}}

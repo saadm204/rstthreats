@@ -1,0 +1,1 @@
+{"threat26":{"iocs":{"file":{"alfa-protection.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"4c3976a406783e18b9e47ca1f3661efa990eda4f2c5038067118aab588543e57":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-12 00:00:00","id":754444995782168577}}
