@@ -1,0 +1,1 @@
+{"threat25":{"iocs":{"file":{"pandemiyardimi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"67132405b407ad965d2a98bba5b8715b9f9582960cfe4875f837acaea99136b7":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-13 00:00:00","id":754807377519890434}}

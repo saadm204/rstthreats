@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"aksigorta.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"aksigortaailem.com/aksigorta.apk":{"type":"url","role":"unknown"}},"hash":{"de98cbdafa33e0c594519e09c64ad85d48c42b47cf48167cca947bf30ef11ae1":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-13 00:00:00","id":743573383168053250}}

@@ -1,0 +1,1 @@
+{"threat34":{"iocs":{"file":{"test-crypter.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"67d2b0f65cc4a6de891da9cee33225103594a25a697ccc4b6f2c0f3a6ab07a19":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-13 00:00:00","id":754807377549250561}}
