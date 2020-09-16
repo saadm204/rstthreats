@@ -1,0 +1,1 @@
+{"threat21":{"iocs":{"file":{"basvuruapk.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"dc00a1b709823f5972d34d371fdf6658cc3474aef1501de0de7f6bfeb27ce5a8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-15 00:00:00","id":755532162893795328}}
