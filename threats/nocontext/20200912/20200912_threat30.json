@@ -1,1 +1,0 @@
-{"threat30":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"2f8ba09caf765be8c32f2f8288659d02fa286759dc24db07f107f3f58333931f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-12 00:00:00","id":754444995798945795}}

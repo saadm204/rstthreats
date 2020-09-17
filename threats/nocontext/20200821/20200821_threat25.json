@@ -1,1 +1,0 @@
-{"threat25":{"iocs":{"file":{"fa.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5501ff81a5fac1946754bf83f5b90f823f2b4632a688b61d305940a1b7b16954":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-21 00:00:00","id":746472460037836800}}

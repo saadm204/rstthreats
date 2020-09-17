@@ -1,1 +1,0 @@
-{"threat14":{"iocs":{"file":{"loader.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"001c765b19779e75032f798a140ddb93528589016df089ac4ce0ecb8db97a6e5":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-21 00:00:00","id":746472460100751360}}

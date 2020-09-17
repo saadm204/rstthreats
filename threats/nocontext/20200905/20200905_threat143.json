@@ -1,1 +1,0 @@
-{"threat143":{"iocs":{"file":{"interbank.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"4a81de3a486377d10611a7d26c2f78440db92fea9d45ec11e0c0878239cf7043":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-05 00:00:00","id":751899905494798340}}

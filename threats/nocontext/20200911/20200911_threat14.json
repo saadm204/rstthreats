@@ -1,1 +1,0 @@
-{"threat14":{"iocs":{"file":{"e-devlet00.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"4585d320995020108f3221c7fb034b22754f191744fee44dcd59f1b6acfaafa0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-11 00:00:00","id":754082609107750912}}

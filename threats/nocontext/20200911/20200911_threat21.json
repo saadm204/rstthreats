@@ -1,1 +1,0 @@
-{"threat21":{"iocs":{"file":{"shinhan.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"114.26.156.143:30/shinhan.apk":{"type":"url","role":"unknown"}},"hash":{"9412153a0dfbfec07a17f9ee4345811482f2068ea7a654cf9381f1763c260be8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-11 00:00:00","id":754082609002893312}}

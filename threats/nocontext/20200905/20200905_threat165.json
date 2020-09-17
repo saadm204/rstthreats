@@ -1,1 +1,0 @@
-{"threat165":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"github.com/tikktokv2/account/raw/master/tiktok%20pro.apk":{"type":"url","role":"unknown"}},"hash":{"34d616fef212916b9e2d1c1fd0eb98245bce860cde3e0137578c6e7ac9f16c41":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-05 00:00:00","id":751899905452855302}}

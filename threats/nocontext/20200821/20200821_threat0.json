@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"h.e.s._obf.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"63d49b6941eca4aaa607550bc0532fce476e738acc9ede87044a89c7f72b00dd":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-21 00:00:00","id":746472460054614017}}

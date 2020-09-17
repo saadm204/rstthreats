@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"googleupdate.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"d54061549c8fa853dd71aac77e7e6853a50858b93d3bc36286e765e77fecfd45":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-29 00:00:00","id":749371565449859075}}

@@ -1,1 +1,0 @@
-{"threat3":{"iocs":{"file":{"nordvpn_fast_vpn_app_for_privacy_amp_security_files.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"3408cf9d915d730c5768a36a42432f4eca2b6c6847754de86931e86942a3ec9d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-27 00:00:00","id":748648197050257412}}

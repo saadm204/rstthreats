@@ -1,1 +1,0 @@
-{"threat53":{"iocs":{"file":{"bizbizeyeteriz.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"a0751ba7d08f7e59bd46a2e7fa4742796a8a6c099242f8bb4fc9285b3deea636":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-08 00:00:00","id":752995440930770945}}

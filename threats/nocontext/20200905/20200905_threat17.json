@@ -1,1 +1,0 @@
-{"threat17":{"iocs":{"file":{"mcafeesecurity_protected_114837.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"c0e04338643779334c1330907001fb163c83a52bca1edb80b0fea035493424d2":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-05 00:00:00","id":751899905322831873}}

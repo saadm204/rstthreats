@@ -1,1 +1,0 @@
-{"threat42":{"iocs":{"file":{"e-devlet.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"2811cbc2c2b2498750572203dd1850a0468c8aa99287fc434b33c23c2013d5ea":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-08 00:00:00","id":752995440918188035}}

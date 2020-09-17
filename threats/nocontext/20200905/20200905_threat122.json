@@ -1,1 +1,0 @@
-{"threat122":{"iocs":{"file":{"jefferson.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"93.157.83.20/jefferson.apk":{"type":"url","role":"unknown"}},"hash":{"ed8dc95843863960f7dee020c79a4a012b5d81bbf0f0e57fdbfe587f1752b763":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-05 00:00:00","id":751899905536741377}}

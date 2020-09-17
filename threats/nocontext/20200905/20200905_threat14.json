@@ -1,1 +1,0 @@
-{"threat14":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"billderboard.live/view.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-09-05 00:00:00","id":751899905394135041}}

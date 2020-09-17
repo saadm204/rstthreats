@@ -1,1 +1,0 @@
-{"threat26":{"iocs":{"file":{"cobaltstrike_shellcode.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"79222d38743b7d3e2f208fd3dd01bc8e4c8428a5c5df3608c2db94a2d82a4b74":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-21 00:00:00","id":746472460042031105}}

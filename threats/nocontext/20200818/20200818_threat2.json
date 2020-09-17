@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{"e-devletpandemibasvuru.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"4d5764be41fd0e422c7fe7222baa5169d162ab89a48a00c3512bf401514bc07f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-18 00:00:00","id":745385296109686787}}

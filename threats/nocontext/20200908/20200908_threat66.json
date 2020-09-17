@@ -1,1 +1,0 @@
-{"threat66":{"iocs":{"file":{"sgk.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"bdc26d8b04395cfff502e69e550feed85849e626571300d99a150fbc756c98eb":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-08 00:00:00","id":752995440876244999}}

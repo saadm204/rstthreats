@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"4g.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"cybercoprahul.in/4g.apk":{"type":"url","role":"unknown"}},"hash":{"e8ce4c487f3b5706cff0004f0dc4eecbc4470010323f0de627f1196bfaf31d71":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-21 00:00:00","id":746472460054614018}}

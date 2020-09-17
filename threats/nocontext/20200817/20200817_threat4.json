@@ -1,1 +1,0 @@
-{"threat4":{"iocs":{"file":{"mo.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"63805bc591fdcf537ea56ed45161fcdb69edec1ed3d713bacf6718f2c4105dde":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-17 00:00:00","id":745022910295101440}}

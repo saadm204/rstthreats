@@ -1,1 +1,0 @@
-{"threat10":{"iocs":{"file":{"facebook_latest.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"1da498c40c7b3880b94d1f4e1db3409eda4314a6f83d7a4f50333e1d3359327c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-10 00:00:00","id":753720218494881797}}

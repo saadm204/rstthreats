@@ -1,1 +1,0 @@
-{"powershell_meterpreter_http_download_x64":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"970cb5e036d29b5057a8df9b959dff5525bb74f2c52e605e37b693c09761e52f":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-08-11 00:00:00","id":742889717584547840}}

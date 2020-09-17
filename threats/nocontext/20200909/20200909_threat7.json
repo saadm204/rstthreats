@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"whatsapp-update.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"android-update.net/whatsapp-update.apk":{"type":"url","role":"unknown"}},"hash":{"78cfa0b48134dcee4fd45984fa8d598db5ba7d993e264bb096b43b5cb89fedda":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-09 00:00:00","id":753357830318903296}}

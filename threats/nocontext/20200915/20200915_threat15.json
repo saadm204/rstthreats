@@ -1,1 +1,0 @@
-{"threat15":{"iocs":{"file":{"instagram_official.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"fa6791e1ba6dc5f4bb5264052ce1ac5d06ed78f8cfaed456e1087b0c27c4e95c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-15 00:00:00","id":755532162944126981}}

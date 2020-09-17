@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{"adobe_flash_2020.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"nuevo2020esflplayer.com/adobe_flash_2020.apk":{"type":"url","role":"unknown"}},"hash":{"90351b36995afd55fb5b25ccbcc24babc2daf1ef8cbfd6ac2caa053c7c3af86f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-12 00:00:00","id":754444995790557190}}

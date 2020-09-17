@@ -1,1 +1,0 @@
-{"threat5":{"iocs":{"file":{"funny_jokes.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"2d9f96fdfb158fe4a85dc95ed4336e7ab2bd862ef4648ba8359044ee33034b0e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-17 00:00:00","id":745022910307684352}}

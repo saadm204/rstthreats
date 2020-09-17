@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{"livenetttv.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"858dde6e1eda915c888466c9f3d0d41e6c7eeee17ba1585c5f3cb3fda213af8b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-08-18 00:00:00","id":745385296118075394}}
