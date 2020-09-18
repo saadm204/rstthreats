@@ -1,0 +1,1 @@
+{"gomorrah":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"rajas.com.my/wp-includes/certificates/panel/gom_lite/panel/login.php":{"type":"url","role":"c2"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-09-17 00:00:00","id":756256932937519104}}
