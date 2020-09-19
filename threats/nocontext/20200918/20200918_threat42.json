@@ -1,0 +1,1 @@
+{"threat42":{"iocs":{"file":{"pentapp.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"193.37.212.6/pentapp.apk":{"type":"url","role":"unknown"}},"hash":{"dfc813b365a44a0aa2c82d922fa9e971a95fc0e72c75fb10bc377952d5d9c135":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-18 00:00:00","id":756619322497617931}}

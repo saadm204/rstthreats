@@ -1,0 +1,1 @@
+{"threat51":{"iocs":{"file":{"spider-man.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"spider-man.club/img/spider-man.apk":{"type":"url","role":"unknown"}},"hash":{"34e91072e73d0a68da5f380c5d224ea625ba6e8f28fbd3797d2a05047838729b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-18 00:00:00","id":756619322501812224}}

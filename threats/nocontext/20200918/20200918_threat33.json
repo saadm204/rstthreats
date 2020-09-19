@@ -1,0 +1,1 @@
+{"threat33":{"iocs":{"file":{"bawagpsk.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"e58364e5ec7a290bb9bf5a89e4569355cd7eb9ce3c02e47061cfc0afe666092e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-18 00:00:00","id":756619322493423622}}
