@@ -1,0 +1,1 @@
+{"threat46":{"iocs":{"file":{"adbclient.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"48d4b2ee304872913a3bddbb1b20767a614293f251739e66468b9870dc2c9c87":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-19 00:00:00","id":756981713517334532}}

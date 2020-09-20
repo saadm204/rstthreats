@@ -1,0 +1,1 @@
+{"threat36":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"goooglechomesecure.xyz/google%20play%20protect.apk":{"type":"url","role":"unknown"}},"hash":{"64cf69a0ebe5f1ca5942026fd93ff73ab693b1cdd22398c3977e7047ffbf47f8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-19 00:00:00","id":756981713479585794}}

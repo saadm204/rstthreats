@@ -1,0 +1,1 @@
+{"threat43":{"iocs":{"file":{"inpost.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"inpost-paczkomat.net/inpost.apk":{"type":"url","role":"unknown"}},"hash":{"527eacb9e7708dd100b55e520b592adf700d98caff18078cb1d642559184f4d8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-19 00:00:00","id":756981713517334535}}
