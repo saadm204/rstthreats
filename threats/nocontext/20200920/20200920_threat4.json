@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"vidmate.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"416821461ae67a0aae32a4ace32a3cf6304896553109fae465d2df57f74af9f6":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-20 00:00:00","id":757344089219452937}}
