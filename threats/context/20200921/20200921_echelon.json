@@ -1,0 +1,1 @@
+{"echelon":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"moist.company/gate.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-09-21 00:00:00","id":757706480935424005}}
