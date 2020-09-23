@@ -1,0 +1,1 @@
+{"threat27":{"iocs":{"file":{"adobe_flash_2020v26411.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"portalvvs.com.au/mms3/download_9.php":{"type":"url","role":"unknown"}},"hash":{"c98269f5005d91f0eb3d60bb2c190497f0c52ebd65deaec4492b84c64469d1a3":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-22 00:00:00","id":758068869027516417}}

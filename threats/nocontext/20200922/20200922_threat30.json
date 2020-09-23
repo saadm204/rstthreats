@@ -1,0 +1,1 @@
+{"threat30":{"iocs":{"file":{"singpost.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"117c0c0ac12f11757c7917af08f8d9a5aefbdd6280a7f703d25dc8b2e564507f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-22 00:00:00","id":758068869048487936}}

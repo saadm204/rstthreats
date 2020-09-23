@@ -1,0 +1,1 @@
+{"threat29":{"iocs":{"file":{"spotify.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"a534d91441311affb934c0e590177c0a3d07a176b26eeb822e3a7bbe8535cc41":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-22 00:00:00","id":758068869077848064}}
