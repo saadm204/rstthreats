@@ -1,0 +1,1 @@
+{"threat49":{"iocs":{"file":{"update.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"2502b3b57aa43a63aecb4ad6bae9e739742e78091436c27b3949b55c3387a0f4":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-24 00:00:00","id":758793660885815302}}

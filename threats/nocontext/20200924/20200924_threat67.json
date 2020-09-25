@@ -1,0 +1,1 @@
+{"threat67":{"iocs":{"file":{"googleguncelleme.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"57144160c02d3942a81cfcbebed84087af2ebb91d2a8c01616323b5ebd2c4fb9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-24 00:00:00","id":758793660848066561}}

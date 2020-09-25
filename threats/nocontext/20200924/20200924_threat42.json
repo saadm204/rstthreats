@@ -1,0 +1,1 @@
+{"threat42":{"iocs":{"file":{"platinumv2.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6b371e59c41747e049e0ac58c15e010320bb6e385099dccb73494e21d04e6c1b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-24 00:00:00","id":758793660885815305}}
