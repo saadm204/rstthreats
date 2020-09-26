@@ -1,0 +1,1 @@
+{"threat38":{"iocs":{"file":{"egift-card.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"c2d7973960a61350c9a6e504ab10a4ca8e1bfb45bfa51d3c806ae4e545ac22c7":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-25 00:00:00","id":759156038366318594}}
