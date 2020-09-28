@@ -1,0 +1,1 @@
+{"threat12":{"iocs":{"file":{"bypass.dll":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7c1fd9818042fc5bfc97063a57007d545850bc02f244355e1095df50e7ad8d1b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-27 00:00:00","id":759880807827034119}}

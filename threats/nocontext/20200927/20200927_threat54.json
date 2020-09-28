@@ -1,0 +1,1 @@
+{"threat54":{"iocs":{"file":{"milanuncios.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"f6984d955d0dc006a4580502cde8ca1a49699195fa6dcab3b6bf248a1ca67bee":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-27 00:00:00","id":759880807827034117}}

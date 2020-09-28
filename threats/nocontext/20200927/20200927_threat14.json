@@ -1,0 +1,1 @@
+{"threat14":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"bdva-kampanyalar.net/1":{"type":"url","role":"unknown"},"bdva-kampanyalar.net/1/30gb.apk":{"type":"url","role":"unknown"}},"hash":{"9d3a6378a9f00a48bee61a7d950ab8aede6603c62378636aba10b032477dc101":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-27 00:00:00","id":759880807827034112}}

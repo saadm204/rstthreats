@@ -1,0 +1,1 @@
+{"threat50":{"iocs":{"file":{"sposafe.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"a1355015d5c0616b403bd5add2c83828fd99c4630b0383bbc89b6892e68473d8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-27 00:00:00","id":759880807822839808}}
