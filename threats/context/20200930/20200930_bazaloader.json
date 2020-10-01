@@ -1,0 +1,1 @@
+{"bazaloader":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"51.89.177.16/api/v202":{"type":"url","role":"c2"},"namaskardunia.com/annualreport.exe":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-09-30 00:00:00","id":760967976352141316}}
