@@ -1,0 +1,1 @@
+{"threat13":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"155.138.163.183/google%20play%20protect.apk":{"type":"url","role":"unknown"}},"hash":{"fe5378aa34156d2face9aa2cf59eb0f15ec2c3d78dbf99e5f92c4e5f27b24b3a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-01 00:00:00","id":761330363173359616}}

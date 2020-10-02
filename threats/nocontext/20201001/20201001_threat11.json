@@ -1,0 +1,1 @@
+{"threat11":{"iocs":{"file":{"allegrokredyty.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"641098526f490a32f43e793f89b425e3fe46dbe460cee3f096f8dde2b170701d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-01 00:00:00","id":761330363198525440}}
