@@ -1,0 +1,1 @@
+{"threat17":{"iocs":{"file":{"necronomiconbookofthedeadpdf.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"405634d0f44819eec4f64f9cdf2ab01af95089c54c85ef29e4628e187c2abc49":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-02 00:00:00","id":761692752171421702}}

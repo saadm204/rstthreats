@@ -1,0 +1,1 @@
+{"threat3":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"144.202.11.123/google%20play%20protect.apk":{"type":"url","role":"unknown"}},"hash":{"9b0aeec6367820f1c0f101c4ea9b72d0c616cfbafea8d9f1380d6200c911b94b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-02 00:00:00","id":761692752192393217}}

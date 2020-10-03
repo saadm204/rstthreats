@@ -1,0 +1,1 @@
+{"threat24":{"iocs":{"file":{"flashplayerupdate.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"d0ccc5928a1efa5ccf5ff1a8442daa9a8e318109c681ec1cd29f6ad86c2a70aa":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-02 00:00:00","id":761692752167227394}}
