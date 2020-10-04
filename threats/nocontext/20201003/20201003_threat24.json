@@ -1,0 +1,1 @@
+{"threat24":{"iocs":{"file":{"celehub.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"www.jeffs-tronicbox.com/download/celehub.apk":{"type":"url","role":"unknown"}},"hash":{"21e077ae3b20cfeb04026bc1bba540e73bf28dc62a578e45595f1c5421d29b87":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-03 00:00:00","id":762055139080720386}}
