@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"actualiza-bankia.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"ebf024f7612905381c96f235f8915544f2aa1d75c6f4fc6d9a7be2885a62bc4c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-04 00:00:00","id":762417525079855109}}

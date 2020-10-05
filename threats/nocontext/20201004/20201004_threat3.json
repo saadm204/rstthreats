@@ -1,0 +1,1 @@
+{"threat3":{"iocs":{"file":{"2500tlpandemiyardimi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7aa3126dd26f5d4187d215a6507c6cb4b2e45698c8bf04ef2212f9e6676ca2e0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-04 00:00:00","id":762417525079855108}}

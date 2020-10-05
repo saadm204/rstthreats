@@ -1,0 +1,1 @@
+{"apt32":{"iocs":{"file":{"laostours_schedule_and_travel_time.docx.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"drive.google.com/uc?id=1wws2dbg94olqrlw0bkwj_n12jadedezo":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-10-04 00:00:00","id":762417525109215237}}

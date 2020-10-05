@@ -1,0 +1,1 @@
+{"threat13":{"iocs":{"file":{"covidtest.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"up.iranblog.com/uploads/covidtest.apk":{"type":"url","role":"unknown"}},"hash":{"e9344d2f3872941c75b7afa10e9b3958220336f371871a01723f37da4acd7437":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-04 00:00:00","id":762417525117603840}}
