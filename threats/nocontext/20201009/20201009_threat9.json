@@ -1,0 +1,1 @@
+{"threat9":{"iocs":{"file":{"skype.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"532991245aad89a77cbb05467e1fe0b4f24ac3de62882136d7e72ec90dffdbae":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-09 00:00:00","id":764244564697210883}}

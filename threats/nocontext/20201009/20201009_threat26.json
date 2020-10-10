@@ -1,0 +1,1 @@
+{"threat26":{"iocs":{"file":{"cv_eloise.pdf.lnk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8636a9a7516c3fe25c495930ee0c44f91d42b5bf38661f6aaa2adef1e0b6f088":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-09 00:00:00","id":764244564642684930}}
