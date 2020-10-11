@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"readme.txt":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{}},"tags":[],"collect":"2020-10-10 00:00:00","id":764606951967219715}}

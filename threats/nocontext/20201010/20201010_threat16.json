@@ -1,0 +1,1 @@
+{"threat16":{"iocs":{"file":{"androidguncellemesi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"noredir.info/download":{"type":"url","role":"unknown"}},"hash":{"dcd25e4395a45b1a7f5806e199286549865c42827f9f0468519a51365914e629":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-10 00:00:00","id":764606951988191237}}
