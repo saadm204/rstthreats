@@ -1,0 +1,1 @@
+{"threat15":{"iocs":{"file":{"googleguncelleme.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"fd21c36131fb2c9f84ffa83333b182dc6d143a4e6e35ade06e099ab5685b6deb":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-11 00:00:00","id":764969335038730245}}
