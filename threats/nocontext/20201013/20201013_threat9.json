@@ -1,0 +1,1 @@
+{"threat9":{"iocs":{"file":{"posti.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"c-posti.top/posti.apk":{"type":"url","role":"unknown"}},"hash":{"05fd314b54360b22f8044bd455fee99c4eda59fe170aee1dc8c50a9eec426328":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-13 00:00:00","id":765694116369326083}}

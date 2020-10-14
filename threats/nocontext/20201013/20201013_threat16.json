@@ -1,0 +1,1 @@
+{"threat16":{"iocs":{"file":{"flashplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"flashpplayer.xyz/flashplayer.apk":{"type":"url","role":"unknown"}},"hash":{"56dab43af55cb4285c46b6ab39f6f647c6cec18eb4726c0336edd262c5f1aa28":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-13 00:00:00","id":765694116381908992}}

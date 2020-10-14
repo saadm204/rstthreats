@@ -1,0 +1,1 @@
+{"threat8":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"yahoo.autheticathor.com/login.html":{"type":"url","role":"unknown"},"google.autheticathor.com/login.html":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-10-13 00:00:00","id":765694116369326082}}

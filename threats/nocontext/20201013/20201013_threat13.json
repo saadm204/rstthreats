@@ -1,0 +1,1 @@
+{"threat13":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"6.top4top.io/f_781f9ow91.apk":{"type":"url","role":"unknown"}},"hash":{"43eb81706caed170357244a8d4ff16316368b239c2a132f18f3a1b8e634cd7f2":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-13 00:00:00","id":765694116377714697}}

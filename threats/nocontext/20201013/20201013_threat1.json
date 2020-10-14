@@ -1,0 +1,1 @@
+{"threat1":{"iocs":{"file":{"lovetalk_v2.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6bbd105063383bd08cb57a3b9bf59a7939e8d0f868cc5625c2b222eb0d69d633":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-13 00:00:00","id":765694116365131778}}
