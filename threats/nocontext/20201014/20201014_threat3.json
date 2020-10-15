@@ -1,0 +1,1 @@
+{"threat3":{"iocs":{"file":{"json.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"cloudsecurityservice.net/summitz/json.apk":{"type":"url","role":"unknown"}},"hash":{"926eef860f8634c64496eaa6588242d87a81476f82c42d79e5fa2ee0d76a6ebb":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-14 00:00:00","id":766056497909915652}}

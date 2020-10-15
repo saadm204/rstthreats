@@ -1,0 +1,1 @@
+{"threat24":{"iocs":{"file":{"f-secure_freedome_for_business_v2_5_18_8779_psb.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8fcd38ce4826ee9beefcf9a45490b53edbba0a2c0dc482fecd246eb8608c8f70":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-14 00:00:00","id":766056497847001088}}
