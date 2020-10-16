@@ -1,0 +1,1 @@
+{"threat26":{"iocs":{"file":{"postnord.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"u-post.top/postnord.apk":{"type":"url","role":"unknown"}},"hash":{"ae1ada959a202fa988f7077995284092b0bcedcba134b11f305cd3a7f31f005a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-15 00:00:00","id":766418884357840900}}
