@@ -1,0 +1,1 @@
+{"apt_c_23":{"iocs":{"file":{"mygramim.signed.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"darrell-ferris.site/download/ylfihmx":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-10-16 00:00:00","id":766781275536941062}}
