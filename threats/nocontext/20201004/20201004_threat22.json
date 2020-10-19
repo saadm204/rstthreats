@@ -1,1 +1,0 @@
-{"threat22":{"iocs":{"file":{"posti.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"17085214127df451c8db274ade44420f58a038b145b44cab65435afb07c83069":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-04 00:00:00","id":762417525075660803}}

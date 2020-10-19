@@ -1,1 +1,0 @@
-{"threat44":{"iocs":{"file":{"dl2_trivial.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"emploimed.com/dl2_trivial.exe":{"type":"url","role":"unknown"}},"hash":{"bec20ac8a134a12e75da2c091e0ff228a2d230b2498991b1689e6b44db94cd58":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-27 00:00:00","id":759880807818645511}}

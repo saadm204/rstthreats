@@ -1,1 +1,0 @@
-{"threat24":{"iocs":{"file":{"wevtutil.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{}},"tags":[],"collect":"2020-10-11 00:00:00","id":764969335013564416}}

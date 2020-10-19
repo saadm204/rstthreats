@@ -1,1 +1,0 @@
-{"threat38":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"cdn.discordapp.com/attachments/759108451275898934/759395487840469032/h.e.s..apk":{"type":"url","role":"unknown"}},"hash":{"a61c33de503a7381555de52b7e0f3bf338b8d8cee91daf23483d0a83a64aa69f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-27 00:00:00","id":759880807814451201}}

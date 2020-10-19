@@ -1,1 +1,0 @@
-{"zloader":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"giddysadventure.co.ke/wp-includes/class-wp-walkerrequests.php":{"type":"url","role":"unknown"},"clientinclusiveconsulting.co.ke//wp-includes/cache-wp-block-auth.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-10-13 00:00:00","id":765694116377714688}}

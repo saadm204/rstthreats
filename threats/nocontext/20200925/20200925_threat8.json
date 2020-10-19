@@ -1,1 +1,0 @@
-{"threat8":{"iocs":{"file":{"adobe_flash_2020v26710.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"junipeqknl.com/mms3/download_2.php":{"type":"url","role":"unknown"}},"hash":{"8284e875c06b5eb97c3f1d28193d05ed77382ba4b51abc08d09b8a7aa59dceb3":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-25 00:00:00","id":759156038328569856}}

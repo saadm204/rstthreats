@@ -1,1 +1,0 @@
-{"threat50":{"iocs":{"file":{"convit19_grafico.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"9fa3fbd02991bb1eb2ed96f727e11ed25d4e6471a5d474925662eae10aa7c066":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-20 00:00:00","id":757344089244618760}}

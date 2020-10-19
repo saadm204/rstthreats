@@ -1,1 +1,0 @@
-{"bazaloader":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"bubl6g.com/api/v202":{"type":"url","role":"c2"}},"hash":{"966c84ff355b11c6b4960ceca58704f5":{"type":"md5","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-10-01 00:00:00","id":761330363148193794}}

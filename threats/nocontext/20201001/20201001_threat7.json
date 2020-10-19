@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"chrome_bildirim.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"30223d41afb9df4c439186331aa092d903dd70dec6e49ad8af71a5b8b9413fb9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-01 00:00:00","id":761330363160776706}}

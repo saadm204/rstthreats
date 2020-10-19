@@ -1,1 +1,0 @@
-{"threat23":{"iocs":{"file":{"update-4-6-0.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"58dd988779c9c6822699ac4bd5fe53c192e22bb2453df01f18dd607f3a71ca30":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-30 00:00:00","id":760967976352141312}}

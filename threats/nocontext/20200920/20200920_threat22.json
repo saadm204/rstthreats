@@ -1,1 +1,0 @@
-{"threat22":{"iocs":{"file":{"sistemguncellemesi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"9d4129c7c8adb838bf807cba6fed60d2782596c6b8d17fcacef346dcecca7dcd":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-20 00:00:00","id":757344089219452929}}

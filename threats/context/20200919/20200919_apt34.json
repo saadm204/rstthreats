@@ -1,1 +1,0 @@
-{"apt34":{"iocs":{"file":{"plan.doc":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"windowscredcity.com/update.php?req=":{"type":"url","role":"c2"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-09-19 00:00:00","id":756981713517334536}}

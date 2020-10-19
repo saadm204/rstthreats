@@ -1,1 +1,0 @@
-{"threat22":{"iocs":{"file":{"bawagpsk.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"a2c52983b0f4a44e0298d8fc47fa0e39295293855f9e2d4cdea58b172ea93681":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-15 00:00:00","id":766418884362035202}}

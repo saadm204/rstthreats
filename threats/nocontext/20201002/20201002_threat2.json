@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"ec2-18-219-61-198.us-east-2.compute.amazonaws.com/google%20play%20protect-.apk":{"type":"url","role":"unknown"}},"hash":{"b4f5619b0f7da035017233ccfc92e39a44220ca0948d85cb10249cda79adf327":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-02 00:00:00","id":761692752192393216}}

@@ -1,1 +1,0 @@
-{"threat65":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"studentedu.hk.appledaily.live/jfzr":{"type":"url","role":"unknown"}},"hash":{"c893ea2cde94539b29ea04f5ae4f6a078f22bf8512612127c6ae5aab11e83be4":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-18 00:00:00","id":756619322396954625}}

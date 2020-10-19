@@ -1,1 +1,0 @@
-{"threat27":{"iocs":{"file":{"beacon.dll":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"45.79.237.92/lsass.exe":{"type":"url","role":"unknown"}},"hash":{"a9ca1d6a981ccc8d8b144f337c259891a67eb6b85ee41b03699baacf4aae9a78":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-06 00:00:00","id":763142307035402242}}

@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{"chrome_guncelleme.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"b2025ba9d2c4feb757a787dc632366bd0543833de5531673a6f8d333aa29f728":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-26 00:00:00","id":759518430300393477}}

@@ -1,1 +1,0 @@
-{"skimmer":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"playbacknows.com/playback/index.js":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-10-10 00:00:00","id":764606951988191232}}

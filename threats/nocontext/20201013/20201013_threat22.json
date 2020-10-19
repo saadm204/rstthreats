@@ -1,1 +1,0 @@
-{"threat22":{"iocs":{"file":{"singpost.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"my-singpost.top/singpost.apk":{"type":"url","role":"unknown"}},"hash":{"593a8035db4f2c3567112d167053baca47f8c7902492d023ae92c8a3c0499b72":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-13 00:00:00","id":765694116356743171}}

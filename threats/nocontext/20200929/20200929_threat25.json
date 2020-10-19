@@ -1,1 +1,0 @@
-{"threat25":{"iocs":{"file":{"flashplayer2020.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"clubpecadores.com.de/apk/flashplayer2020.apk":{"type":"url","role":"unknown"}},"hash":{"734a548da3cf92a184543a1d995bb1acd45680fe3f5cfcceb0b078cdf833de76":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-29 00:00:00","id":760605591586131968}}

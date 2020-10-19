@@ -1,1 +1,0 @@
-{"threat44":{"iocs":{"file":{"instagram_updates.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5312e39c50d39c73f61d2d69e5a1b64bb13667c7ea2e2928b5e09fcf10979d89":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-24 00:00:00","id":758793660885815307}}

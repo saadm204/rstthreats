@@ -1,1 +1,0 @@
-{"powershell_empire_agent":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"24b179b06047d7f5b7f2c9064fe849db0e4f5d04df56f0126af2b5b8bf99fd17":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-10-10 00:00:00","id":764606951946248194}}

@@ -1,1 +1,0 @@
-{"threat34":{"iocs":{"file":{"inpost.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"inpost-generator.net/inpost.apk":{"type":"url","role":"unknown"}},"hash":{"0d02b739f774567bbb60484383df0b150b369f09eb195fda616aab9b5d141104":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-19 00:00:00","id":756981713513140224}}

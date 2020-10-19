@@ -1,1 +1,0 @@
-{"threat42":{"iocs":{"file":{"updateandroidos.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5b415e63b8f4e2c3b6a4abfa43bad8faff1d236df287fc070b47beaceefdb43a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-20 00:00:00","id":757344089244618756}}

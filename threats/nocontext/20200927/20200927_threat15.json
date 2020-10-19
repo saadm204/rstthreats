@@ -1,1 +1,0 @@
-{"threat15":{"iocs":{"file":{"androidguncellemesi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"tunneltrack.info/download":{"type":"url","role":"unknown"}},"hash":{"a5fbf233edc7a0f67720b747b28aeb07ac45add22efedb831471d62c260bd384":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-27 00:00:00","id":759880807827034115}}

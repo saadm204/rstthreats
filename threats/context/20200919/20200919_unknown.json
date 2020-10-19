@@ -1,1 +1,0 @@
-{"unknown":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"beta.wally02.org/f.php":{"type":"url","role":"unknown"}},"hash":{"852646191db6768157a7fddcc13afed2":{"type":"md5","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-09-19 00:00:00","id":756981713521528832}}

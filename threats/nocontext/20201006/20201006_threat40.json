@@ -1,1 +1,0 @@
-{"threat40":{"iocs":{"file":{"vpnvipv2-1-1.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"up.iranblog.com/uploads/vpnvipv2-1-1.apk":{"type":"url","role":"unknown"}},"hash":{"3d68daa12817bb4f93044287a176fe0e5a29863de1e2d82b8d33fa519f67b999":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-06 00:00:00","id":763142307073150978}}

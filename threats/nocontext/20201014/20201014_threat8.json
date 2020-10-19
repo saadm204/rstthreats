@@ -1,1 +1,0 @@
-{"threat8":{"iocs":{"file":{"adobe_flash_2020v28601.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"heapafoo.ru/mms3/download_2.php":{"type":"url","role":"unknown"}},"hash":{"30f98dc57a51643a0b43484e57aa6f5bfb1843173a82f70f046acab335f46e40":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-14 00:00:00","id":766056497935081474}}

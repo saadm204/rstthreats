@@ -1,1 +1,0 @@
-{"threat39":{"iocs":{"file":{"googleupdate.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"615210336b034241f13e7459fc5bb846ea5bab39905d37fd20fd64fb08cb395c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-25 00:00:00","id":759156038370512901}}

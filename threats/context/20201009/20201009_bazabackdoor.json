@@ -1,1 +1,0 @@
-{"bazabackdoor":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7d11779283ce65e18f30e1cf2a62d6f6":{"type":"md5","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-10-09 00:00:00","id":764244564701405193}}

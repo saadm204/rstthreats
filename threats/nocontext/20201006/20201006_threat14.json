@@ -1,1 +1,0 @@
-{"threat14":{"iocs":{"file":{"club-romance-mod-v.1.0.6500.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"514e2755ca977df4cc569d35c3faf168925e560a096495ac890ef095e9a3c6fc":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-06 00:00:00","id":763142307073150983}}

@@ -1,1 +1,0 @@
-{"threat5":{"iocs":{"file":{"chrome.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"chromeme.xyz/chrome.apk":{"type":"url","role":"unknown"}},"hash":{"506e41c9afd82d343ace248acef5b77adf0871037b004159d59612efc5b3ee08":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-24 00:00:00","id":758793660856455172}}

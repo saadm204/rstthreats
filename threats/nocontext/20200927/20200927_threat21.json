@@ -1,1 +1,0 @@
-{"threat21":{"iocs":{"file":{"pandemi_destek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"basvuruiarim.site/pandemi_destek.apk":{"type":"url","role":"unknown"}},"hash":{"991351a466746676dca7b121a58f345d62e4d9762475a69a08066ccd10402bdf":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-27 00:00:00","id":759880807785091075}}

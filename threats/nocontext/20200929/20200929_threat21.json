@@ -1,1 +1,0 @@
-{"threat21":{"iocs":{"file":{"dest2ekleyen.apk":{"type":"file","role":"unknown"},"destekleyen.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"208a0bdee70d3e90ac0070872d0941070a8842b55b73561d26e7323ec6c04425":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-29 00:00:00","id":760605591594520576}}

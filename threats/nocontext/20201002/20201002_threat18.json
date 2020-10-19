@@ -1,1 +1,0 @@
-{"threat18":{"iocs":{"file":{"mediaplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"clubpecadores.xyz/apk/mediaplayer.apk":{"type":"url","role":"unknown"}},"hash":{"a1bb49e8420911d5118e3c2afb08c4a3dc113d463bb91f3c25af6acc22f1f17b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-02 00:00:00","id":761692752171421701}}

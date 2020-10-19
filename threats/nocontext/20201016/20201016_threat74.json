@@ -1,1 +1,0 @@
-{"threat74":{"iocs":{"file":{"chrome.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"v-post.top/chrome.apk":{"type":"url","role":"unknown"}},"hash":{"1c07174a7bc32947ac40574a62629bc3c3010acda23166ba6a017df7edf7c1ad":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-16 00:00:00","id":766781275545329664}}

@@ -1,1 +1,0 @@
-{"threat14":{"iocs":{"file":{"netflix.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"f87ef4d9f2ef613846aaf586bf46af62c18b86e16f356e64f60c2ccb3d4a5d9c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-11 00:00:00","id":764969335038730242}}

@@ -1,1 +1,0 @@
-{"threat27":{"iocs":{"file":{"basvuru.apk":{"type":"file","role":"unknown"},"destekpande.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"366b4f7f2ce81a2473ab67f5a2d397184b875e1532ecafb5b04319560c0d7238":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-26 00:00:00","id":759518430279421953}}

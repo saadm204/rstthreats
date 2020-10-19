@@ -1,1 +1,0 @@
-{"threat59":{"iocs":{"file":{"synhron.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"caaed52688bac628268ff3482d0e5f60e47d8f317bef3fecacf93b434c7692d7":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-24 00:00:00","id":758793660898398209}}

@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"tiktokss.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"061e89e55f6ef89c871caec4d14541b15d1921b44079f5d3adfe2f5e3977f450":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-11 00:00:00","id":764969335034535938}}

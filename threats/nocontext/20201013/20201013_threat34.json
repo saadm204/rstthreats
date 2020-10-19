@@ -1,1 +1,0 @@
-{"threat34":{"iocs":{"file":{"wooriib2.0.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7bfe6ddc0bff78241ccfbd11a2f50867c866979fe3c99baba540cb63dde1758b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-13 00:00:00","id":765694116373520389}}

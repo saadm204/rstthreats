@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"www.hostingcloud.racing/ab20.js":{"type":"url","role":"unknown"}},"hash":{"1f8a0f16caaf7bb75d7c1c05db46e340bfd034c9f520a1c228b1a545703e695e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-14 00:00:00","id":766056497935081473}}

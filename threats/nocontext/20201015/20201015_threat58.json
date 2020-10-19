@@ -1,1 +1,0 @@
-{"threat58":{"iocs":{"file":{"security.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"1a723d2532243ccb3c8b0b0f249dd7e8c53c66bbdcffb4d501872b2cdb2ce0ac":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-15 00:00:00","id":766418884395589632}}

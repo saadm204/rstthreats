@@ -1,1 +1,0 @@
-{"threat30":{"iocs":{"file":{"inpost.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"inpost-kody.net/inpost.apk":{"type":"url","role":"unknown"}},"hash":{"f7d6496526ad2962ed56a42b79241e7f9ca710ae265d46a6eba6b79c6066301d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-09-19 00:00:00","id":756981713479585792}}
