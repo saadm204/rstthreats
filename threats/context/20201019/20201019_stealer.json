@@ -1,0 +1,1 @@
+{"stealer":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"azor.vds2018.space/panel/admin.php":{"type":"url","role":"c2"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-10-19 00:00:00","id":767868435161735186}}
