@@ -1,0 +1,1 @@
+{"threat38":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"ec2-3-138-125-157.us-east-2.compute.amazonaws.com/play%20protect.apk":{"type":"url","role":"unknown"}},"hash":{"76ed112d009d0535013805f401f94acf582a4cc7071a823632b93682388b7e44":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-20 00:00:00","id":768230827867561985}}

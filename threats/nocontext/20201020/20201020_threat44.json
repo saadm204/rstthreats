@@ -1,0 +1,1 @@
+{"threat44":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"ec2-3-138-125-157.us-east-2.compute.amazonaws.com/google%20play%20services.apk":{"type":"url","role":"unknown"}},"hash":{"7c0e1212b84160d0c0fec686426c0b6135e58165ec71f78bf3e3493c5765453b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-20 00:00:00","id":768230827901116420}}
