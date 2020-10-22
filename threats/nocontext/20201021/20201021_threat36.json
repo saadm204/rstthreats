@@ -1,0 +1,1 @@
+{"threat36":{"iocs":{"file":{"epandemi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"birlikkalite-platformirtibattrweb.com/epandemi.apk":{"type":"url","role":"unknown"}},"hash":{"44f8f7dc1d0d44671f27aa75e8484b2f0c3c9fb0bc02ff8a39a41b7698135d76":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-21 00:00:00","id":768593218165858313}}
