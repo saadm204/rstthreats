@@ -1,0 +1,1 @@
+{"threat51":{"iocs":{"file":{"msword-update.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"com-net.site/releases/msword-update.exe":{"type":"url","role":"unknown"}},"hash":{"67418cd16e3b672ab0759bb72c2e056da27c433b16dc1a29c13b55f68204e1c6":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-23 00:00:00","id":769317988637401092}}

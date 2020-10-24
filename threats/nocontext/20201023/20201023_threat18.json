@@ -1,0 +1,1 @@
+{"threat18":{"iocs":{"file":{"vidoe001mp4.scr":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"73feac20d7cdbe1e10ca26b196d60d68ea0c4e652ceacf534b1c549e4e597e74":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-23 00:00:00","id":769317988620623885}}
