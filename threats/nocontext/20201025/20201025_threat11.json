@@ -1,0 +1,1 @@
+{"threat11":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"cdn.discordapp.com/attachments/768880075155308565/769200248366825523/stayathome...............apk":{"type":"url","role":"unknown"}},"hash":{"e7f813df188d416d0c107d354422aadf65b91f55e63ec7505e0005d97ed47d68":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-25 00:00:00","id":770042761352896519}}
