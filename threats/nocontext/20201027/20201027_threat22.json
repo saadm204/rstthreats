@@ -1,0 +1,1 @@
+{"threat22":{"iocs":{"file":{"eba.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"bd62499f5eed1433b53c8a1318373d4d442f257ee9283ef925cc13431be64943":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-27 00:00:00","id":770767541957877766}}

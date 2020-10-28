@@ -1,0 +1,1 @@
+{"threat25":{"iocs":{"file":{"update-4-6-08.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"adobeapplications.link/update-4-6-08.apk":{"type":"url","role":"unknown"}},"hash":{"b8fbac307af05e12e2a9a773d910c1efefdc5557d8e5abd723d8605ee882eab9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-27 00:00:00","id":770767541953683456}}

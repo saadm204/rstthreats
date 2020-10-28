@@ -1,0 +1,1 @@
+{"threat23":{"iocs":{"file":{"covid19.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"c4a2def8bb328d64b54afde2d9877693b7cda308a63eac468ab67ab2d5ea617b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-27 00:00:00","id":770767541957877765}}
