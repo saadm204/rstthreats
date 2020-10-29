@@ -1,0 +1,1 @@
+{"threat7":{"iocs":{"file":{"akbankmobilyeni.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"35f971b5520b46d5fef6247e34299bdc4ab2cf2633c0e108cacfe7b685cab835":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-28 00:00:00","id":771129930989494272}}
