@@ -1,0 +1,1 @@
+{"crimson":{"iocs":{"file":{"gnivdrmra.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-10-29 00:00:00","id":771492319085781000}}

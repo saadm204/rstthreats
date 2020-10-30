@@ -1,0 +1,1 @@
+{"threat62":{"iocs":{"file":{"zdjecie3811124.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"da116ebeed0ba50dbb0d24f847412621e918b94d7ffd12548fc30fe9194227f7":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-29 00:00:00","id":771492319073198083}}
