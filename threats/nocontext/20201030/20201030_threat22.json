@@ -1,0 +1,1 @@
+{"threat22":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"107.174.24.12/malwarehunterteam":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-10-30 00:00:00","id":771854701268099078}}

@@ -1,0 +1,1 @@
+{"threat15":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"cdn.discordapp.com/attachments/761819152909598720/768578385306714122/xinof4.2.1.exe":{"type":"url","role":"unknown"}},"hash":{"acfa59b94beebb0f9c4dd6a4c21586b9648808629624612c53d099df388eadd3":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-30 00:00:00","id":771854701284876288}}

@@ -1,0 +1,1 @@
+{"threat17":{"iocs":{"file":{"adobeflashplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"vidtop-xxx.online/load/adobeflashplayer.apk":{"type":"url","role":"unknown"}},"hash":{"347a6f3d78fd549eb599db4315c5904e06eee50d0ac60e8b57572a41301e4e0a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-30 00:00:00","id":771854701268099080}}

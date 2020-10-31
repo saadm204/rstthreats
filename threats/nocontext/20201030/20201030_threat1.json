@@ -1,0 +1,1 @@
+{"threat1":{"iocs":{"file":{"flashplayerupdate.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"realpornohp.com/flashplayerupdate.apk":{"type":"url","role":"unknown"}},"hash":{"00cae7cf94df93de3f3125fc9a03706d999076e8f2d20a82c22d057ddd4a619f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-30 00:00:00","id":771854701268099082}}
