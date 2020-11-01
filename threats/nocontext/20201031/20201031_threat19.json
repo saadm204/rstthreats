@@ -1,0 +1,1 @@
+{"threat19":{"iocs":{"file":{"adobeflashplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"xxx-vidmo.online/load/adobeflashplayer.apk":{"type":"url","role":"unknown"}},"hash":{"7c919ca8720c29abea2cbf22840a46b073a0d7e0e39d0a98910355f6e11a6630":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-31 00:00:00","id":772217092480753669}}
