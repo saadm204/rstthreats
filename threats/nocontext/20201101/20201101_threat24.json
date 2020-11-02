@@ -1,0 +1,1 @@
+{"threat24":{"iocs":{"file":{"mediaplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"pecadoras10.club/apk/es/mediaplayer.apk":{"type":"url","role":"unknown"}},"hash":{"e01ee4702209abef065b9d242d240604e4f79220b8040912bb7c6f6a6da7366c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-01 00:00:00","id":772579474847621121}}
