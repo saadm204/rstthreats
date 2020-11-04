@@ -1,0 +1,1 @@
+{"threat35":{"iocs":{"file":{"postnord.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"sepost-f.top/postnord.apk":{"type":"url","role":"unknown"}},"hash":{"b289205fadcd0aa92b100ab2bb376f056096b1c7dfaba98f93f0202c626fb9e9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-03 00:00:00","id":773304252285902852}}

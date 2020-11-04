@@ -1,0 +1,1 @@
+{"threat25":{"iocs":{"file":{"blinefm.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"affd5f9084641dee0355dc09b60db37a162538be44727884eb45e929bd4b2f60":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-03 00:00:00","id":773304252273319936}}
