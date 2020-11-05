@@ -1,0 +1,1 @@
+{"threat12":{"iocs":{"file":{"myshellcode_loader.exe":{"type":"file","role":"unknown"},"runcmd.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"w30.microsoft-shop.com/login.png":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-11-04 00:00:00","id":773666644102537221}}

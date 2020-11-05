@@ -1,0 +1,1 @@
+{"threat1":{"iocs":{"file":{"video.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"689bbb13559986d9e82376cb4099fe6ade19d649c78bc833b3f1cfad5f386c4b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-04 00:00:00","id":773666644098342913}}
