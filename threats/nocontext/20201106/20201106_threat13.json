@@ -1,0 +1,1 @@
+{"threat13":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"gamesforconsoles2222.top/blog/files/tt.exe":{"type":"url","role":"unknown"}},"hash":{"796d821e9574f547da9919079b1a6ddf496b68b4256ccfe33b5ff1588753b53f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-06 00:00:00","id":774391436917137410}}
