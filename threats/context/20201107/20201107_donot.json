@@ -1,0 +1,1 @@
+{"donot":{"iocs":{"file":{"krat.rtf":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"createlist.xyz/topaz/foti":{"type":"url","role":"c2"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-11-07 00:00:00","id":774753811931389953}}
