@@ -1,0 +1,1 @@
+{"threat27":{"iocs":{"file":{"zdjecie958191.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"38679e2ed39f50a53a90729d18aa45c9f21cefa7bc73e25c59e1da0e6a843fb9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-08 00:00:00","id":775116197846638592}}

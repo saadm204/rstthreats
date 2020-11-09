@@ -1,0 +1,1 @@
+{"threat22":{"iocs":{"file":{"update-4-6-04.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"adobemanager.club/update-4-6-04.apk":{"type":"url","role":"unknown"}},"hash":{"d834a92687e6c555fdfa442e24cf6a8e541ff1b0f4098a232421d6acb0c6f948":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-08 00:00:00","id":775116197867610113}}
