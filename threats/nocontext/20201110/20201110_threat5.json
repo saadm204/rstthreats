@@ -1,0 +1,1 @@
+{"threat5":{"iocs":{"file":{"update-4-6-05.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"adobeservice.club/update-4-6-05.apk":{"type":"url","role":"unknown"}},"hash":{"a960902667e777c6ed59288641c207f96eeafdb9fcee16cf0beb7fc7b864a0b9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-10 00:00:00","id":775840979781214210}}
