@@ -1,0 +1,1 @@
+{"zloader":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"mandreskincare.com/wp-touch.php":{"type":"url","role":"unknown"},"oxbridge.org.hk/robots.php":{"type":"url","role":"unknown"},"www.protekgr.com/wp-touch.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-11-11 00:00:00","id":776203365587410945}}
