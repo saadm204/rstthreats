@@ -1,0 +1,1 @@
+{"threat25":{"iocs":{"file":{"mellatbank.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6ff9689025c204b4cf400c3eef7be8759cdad52206dcb5245a5e504c4fd0b11d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-13 00:00:00","id":776928136629379072}}

@@ -1,0 +1,1 @@
+{"threat27":{"iocs":{"file":{"pussy.txt":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"f94fbc387e32abb67244f5130becb5f50d8094726eaf592fd71ba94c4efd17b1":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-13 00:00:00","id":776928136629379074}}
