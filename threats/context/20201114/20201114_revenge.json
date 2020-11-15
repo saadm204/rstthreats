@@ -1,0 +1,1 @@
+{"revenge":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"53899e8e2ac9722fa19c52bdd9db99cc8e45429b0f73959805ee52628fb38334":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-11-14 00:00:00","id":777290527779119109}}
