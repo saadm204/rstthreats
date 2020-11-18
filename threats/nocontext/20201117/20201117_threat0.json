@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"mediaplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"touristwreckonly.club/apk/es/mediaplayer.apk":{"type":"url","role":"unknown"}},"hash":{"ba5710948753cd02fdd6665871256add295c70098eac619bb8cd298a6aca9215":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-17 00:00:00","id":778377698816614402}}
