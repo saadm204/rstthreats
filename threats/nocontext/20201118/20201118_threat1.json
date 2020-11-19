@@ -1,0 +1,1 @@
+{"threat1":{"iocs":{"file":{"update_4-6-08.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"adobesoftware.club/update_4-6-08.apk":{"type":"url","role":"unknown"}},"hash":{"16bcf6d8934cd3a6a4baa8df8fa0480606529707d8993903003c1c8c43fda3b5":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-18 00:00:00","id":778740081456111621}}

@@ -1,0 +1,1 @@
+{"threat8":{"iocs":{"file":{"citibank.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"655bb56019f38108e3d0e5cf226a0b3ca00fefdeaefd54815690ffbbfdb5c1f2":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-18 00:00:00","id":778740081472888833}}
