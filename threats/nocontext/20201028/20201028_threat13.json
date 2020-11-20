@@ -1,1 +1,0 @@
-{"threat13":{"iocs":{"file":{"ransomwarecovid19.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5fe8433510646a618fe31e026a0b4f3f728fe7c94c2be2c0e224122332369fa6":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-28 00:00:00","id":771129931031437317}}

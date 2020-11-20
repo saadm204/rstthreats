@@ -1,1 +1,0 @@
-{"threat23":{"iocs":{"file":{"mediaplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"cashmaster.xyz/apk/mediaplayer.apk":{"type":"url","role":"unknown"}},"hash":{"b0343739881382e10ec17361157a7a06ea55b35115f42938b20f04b0fa5560b4":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-01 00:00:00","id":772579474851815424}}

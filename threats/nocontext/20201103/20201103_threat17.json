@@ -1,1 +1,0 @@
-{"threat17":{"iocs":{"file":{"adobe_flash_2020.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"flplayer2020nuevo.info/adobe_flash_2020.apk":{"type":"url","role":"unknown"}},"hash":{"8ed3e8a6d723cf9cdad857ab3f6f100580e441f9d3a894354c7d306dc0589bd1":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-03 00:00:00","id":773304252281708544}}

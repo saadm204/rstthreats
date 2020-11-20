@@ -1,1 +1,0 @@
-{"threat35":{"iocs":{"file":{"flashplayerupdate.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"myporhd.com/flashplayerupdate.apk":{"type":"url","role":"unknown"}},"hash":{"381416ac62df5a1d6d7ea8cf3e118f98af48f394cd2782a1289ad5233a31703d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-04 00:00:00","id":773666644098342929}}

@@ -1,1 +1,0 @@
-{"zloader":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"christian.bar/wp-data.php":{"type":"url","role":"unknown"},"customer.yoga/wp-data.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-11-18 00:00:00","id":778740081384808448}}

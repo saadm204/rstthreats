@@ -1,1 +1,0 @@
-{"phishing":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"secondtimeround.com/s":{"type":"url","role":"unknown"},"a0485261.xsph.ru/clients.boursorama.com.connexion/test/connexion":{"type":"url","role":"unknown"}},"hash":{}},"tags":["phishing"],"descr":"Phishing company","collect":"2020-11-10 00:00:00","id":775840979785408518}}

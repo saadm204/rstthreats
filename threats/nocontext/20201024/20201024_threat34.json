@@ -1,1 +1,0 @@
-{"threat34":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"cdn.discordapp.com/attachments/768880075155308565/768943247124332554/sistem-guncellemesi.......apk":{"type":"url","role":"unknown"}},"hash":{"4fce1e7679bda1c585b547670b46b237dbe0607be0d64a8c27b9632b90bd2365":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-24 00:00:00","id":769680375538311169}}

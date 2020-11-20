@@ -1,1 +1,0 @@
-{"threat23":{"iocs":{"file":{"nacex.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"597122dba7c760d3ea8c186bd42b6780ad395dbce35aabe0d2b477c8158bdd40":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-24 00:00:00","id":769680375504756741}}

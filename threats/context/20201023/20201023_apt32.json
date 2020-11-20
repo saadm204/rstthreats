@@ -1,1 +1,0 @@
-{"apt32":{"iocs":{"file":{"9_programme_somca-japan_final.docx.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"drive.google.com/uc?id=1z3u6tnva8a6lk_enasu2vxf5fm1bg1gi":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-10-23 00:00:00","id":769317988637401088}}

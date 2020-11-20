@@ -1,1 +1,0 @@
-{"apt_c_23":{"iocs":{"file":{"openvhost-7q6edb6y490c.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-10-21 00:00:00","id":768593218161664005}}

@@ -1,1 +1,0 @@
-{"threat49":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"cdn.discordapp.com/attachments/768880075155308565/769333653825912904/pandemide_destek.....apk":{"type":"url","role":"unknown"}},"hash":{"73f14d93f06fd58fc364650b349f88f406dca84157ff0292defc80c00dfe5ef1":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-25 00:00:00","id":770042761348702214}}

@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"banalta.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"002d97585e2ea7b8c76a60bc576edc0d418b4b0847a011ff2c75615ab359eec6":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-17 00:00:00","id":778377698820808704}}

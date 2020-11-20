@@ -1,1 +1,0 @@
-{"formbook":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"103.153.79.195/uu.exe":{"type":"url","role":"unknown"}},"hash":{"8d71513658a9976515af9d0d55176455b1ad8a8ad79a83393482156436946414":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-11-04 00:00:00","id":773666644102537224}}

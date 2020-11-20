@@ -1,1 +1,0 @@
-{"konni":{"iocs":{"file":{"refund.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"211.104.160.79/daska/up.php":{"type":"url","role":"c2"},"211.104.160.79/daska/files/to_xxxxxxx.txt":{"type":"url","role":"c2"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-11-14 00:00:00","id":777290527749758980}}

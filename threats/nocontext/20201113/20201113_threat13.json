@@ -1,1 +1,0 @@
-{"threat13":{"iocs":{"file":{"beacon.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"45.141.84.182/beacon.exe":{"type":"url","role":"unknown"}},"hash":{"4f6af6104eb118ee193f1b77124dfcdfbef04af6ae6e55c8e37f2f68e9d526eb":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-13 00:00:00","id":776928136658739201}}

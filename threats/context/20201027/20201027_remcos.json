@@ -1,1 +1,0 @@
-{"remcos":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"revenge01-34775.portmap.host:34775:pass":{"type":"url","role":"c2"}},"hash":{"d90248d8d9d8fb8bdd69bca18f09acaebfbe2935292bcf54def3b21195e920b4":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-10-27 00:00:00","id":770767541999820800}}

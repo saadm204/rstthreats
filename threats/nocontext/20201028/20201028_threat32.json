@@ -1,1 +1,0 @@
-{"threat32":{"iocs":{"file":{"getrandombase64.php":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{}},"tags":[],"collect":"2020-10-28 00:00:00","id":771129931018854402}}

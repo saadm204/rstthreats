@@ -1,1 +1,0 @@
-{"threat14":{"iocs":{"file":{"important-comunication-smartworking-16-11-2020.pif":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6279367348fefcc26aab03b4fbeea7dba368305865d624bc0b0f98a33912a5d4":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-18 00:00:00","id":778740081477083137}}

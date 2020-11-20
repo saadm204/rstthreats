@@ -1,1 +1,0 @@
-{"threat9":{"iocs":{"file":{"refund.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"87d54226eb67fef0a1e85f18c0ae3865e2184553eb564be3f5d0dbe694754811":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-13 00:00:00","id":776928136654544903}}

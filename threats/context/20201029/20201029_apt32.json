@@ -1,1 +1,0 @@
-{"apt32":{"iocs":{"file":{"production_ai_jss07_us.docx.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"drive.google.com/uc?id=1dvvv7aanks0-pjbtcmlmbmbzrcay4pye":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-10-29 00:00:00","id":771492319085780999}}

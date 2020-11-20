@@ -1,1 +1,0 @@
-{"threat35":{"iocs":{"file":{"ebasistem.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"b84f18bfdc6aa0b3a42ef4423a87c1df89e38cfc36ad159d6ae25fc0435b19bc":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-10-21 00:00:00","id":768593218165858314}}

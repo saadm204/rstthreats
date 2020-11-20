@@ -1,1 +1,0 @@
-{"formbook":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"103.153.79.195/0pp.exe":{"type":"url","role":"unknown"}},"hash":{"ce7d07f009b3e4548e852f20cc95dd3ab2a01f19f98279666bda63fc60edd77f":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-10-28 00:00:00","id":771129931035631619}}

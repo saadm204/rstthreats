@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"yazilimguncellemesi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"a742675461ffdb35066f455ab90fa4de14036c63803a1f9354bcbf7e0f029dae":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-11 00:00:00","id":776203365562245128}}

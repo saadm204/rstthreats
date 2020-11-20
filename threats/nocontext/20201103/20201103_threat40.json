@@ -1,1 +1,0 @@
-{"threat40":{"iocs":{"file":{"update.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"41c79f117fe87e7d692bfc529f2453553ea814eed5f3c84820f1adda9bb213cc":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-03 00:00:00","id":773304252290097154}}

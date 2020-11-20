@@ -1,1 +1,0 @@
-{"threat24":{"iocs":{"file":{"update_4_6_02.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"adobeservice.digital/update_4_6_02.apk":{"type":"url","role":"unknown"}},"hash":{"145957bc018b8d9d78aad0760203e0ca7f70839ba49d7222697072fc0554f842":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-11 00:00:00","id":776203365558050817}}

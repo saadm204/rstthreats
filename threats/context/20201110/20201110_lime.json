@@ -1,1 +1,0 @@
-{"lime":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"pastebin.com/raw/ddtvwwbu":{"type":"url","role":"c2"}},"hash":{"34a301e4f384f123d15f3a91e2f26cb06393f8fae49a527b5b87b938bfc69696":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-11-10 00:00:00","id":775840979789602816}}

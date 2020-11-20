@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"myexpertng.com/grant":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-11-04 00:00:00","id":773666644098342912}}

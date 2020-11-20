@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"officeselup.com/setup.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-11-04 00:00:00","id":773666644098342919}}

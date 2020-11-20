@@ -1,1 +1,0 @@
-{"threat31":{"iocs":{"file":{"mediaplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"ovveu.club/apk/es/mediaplayer.apk":{"type":"url","role":"unknown"}},"hash":{"95d52587aef5e819408675b2c748d63f8127f699fa74c0870296ba728eeffc7a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-03 00:00:00","id":773304252285902857}}
