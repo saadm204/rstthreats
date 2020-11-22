@@ -1,0 +1,1 @@
+{"threat8":{"iocs":{"file":{"flashplayer.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"abodegplayer.xyz/flashplayer.apk":{"type":"url","role":"unknown"}},"hash":{"fa121bb8997fb546e2e9b259b7b68841c0a0ee323f9ce2c3ccbb14d28718a263":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-21 00:00:00","id":779827241970098179}}
