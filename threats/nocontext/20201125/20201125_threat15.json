@@ -1,0 +1,1 @@
+{"threat15":{"iocs":{"file":{"android10.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"4f6bfe41c9644c059f92fa8be38b94917107df777cb9dddb7c59d7232b57041f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-25 00:00:00","id":781276795722588164}}
