@@ -1,0 +1,1 @@
+{"threat2":{"iocs":{"file":{"bypassav.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"a5c9be733aa3bef8f3de2b6a60b64570b7752af1c42ecd47902659f4bc6b39c7":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-28 00:00:00","id":782363959180976129}}
