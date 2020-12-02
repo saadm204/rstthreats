@@ -1,0 +1,1 @@
+{"threat16":{"iocs":{"file":{"chatting.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"d98a6028f3eb4d7acfdf7ce3c2819f0535af4712c9bb3dbe66086451218bbee7":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-01 00:00:00","id":783451121485930500}}

@@ -1,0 +1,1 @@
+{"threat6":{"iocs":{"file":{"rainbowvpn.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"eb1e2a680b61e9bf1cd0ca1aa2013e61e616b40659bc02e6dcbd0c98870869c9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-01 00:00:00","id":783451121481736198}}
