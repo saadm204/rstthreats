@@ -1,0 +1,1 @@
+{"threat10":{"iocs":{"file":{"androidupdate11.1.7.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"1988051478fe743934bb32a31eeb9cd6caddec125f3f468894a3b6621c8ce56d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-03 00:00:00","id":784175889994539009}}

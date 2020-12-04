@@ -1,0 +1,1 @@
+{"threat13":{"iocs":{"file":{"tiktok.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"501ca1c4ce3a6c1d03655d35109b7d16e4dc111142ffa0c3f1cec95b7a604e6f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-03 00:00:00","id":784175889990344708}}
