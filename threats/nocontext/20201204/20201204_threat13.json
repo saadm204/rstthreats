@@ -1,0 +1,1 @@
+{"threat13":{"iocs":{"file":{"androidupdate11.1.10.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"167ca4c512ebc3820c6b6c5308eff2c69bd59474d85355d0b688cad1a73fbe91":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-04 00:00:00","id":784538279177150466}}
