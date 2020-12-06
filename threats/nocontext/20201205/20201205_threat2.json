@@ -1,0 +1,1 @@
+{"threat2":{"iocs":{"file":{"systemupdate_v10.2.32.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"748d10745430e5a5c87b87d63c95a88515f95dab25d273d0cf42645c4e27acd4":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-05 00:00:00","id":784900664039628805}}
