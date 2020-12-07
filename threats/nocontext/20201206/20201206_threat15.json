@@ -1,0 +1,1 @@
+{"threat15":{"iocs":{"file":{"android_update_v12.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"162.252.forpsi.net/android_update_v12.apk":{"type":"url","role":"unknown"}},"hash":{"f83b91ebf76824921aa1618826a532050085f0e3dc3c282a2d89430b76ad4729":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-06 00:00:00","id":785263051905228804}}

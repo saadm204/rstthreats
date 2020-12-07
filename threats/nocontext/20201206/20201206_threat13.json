@@ -1,0 +1,1 @@
+{"threat13":{"iocs":{"file":{"img_20201203_214500.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"foto-cloud.org/img_20201203_214500.jpg":{"type":"url","role":"unknown"}},"hash":{"f502f43398cafcc7c64aa621e01e911c4cf6db3cee911b9e87f735e5d11459bf":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-06 00:00:00","id":785263051905228802}}
