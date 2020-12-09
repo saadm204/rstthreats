@@ -1,0 +1,1 @@
+{"threat10":{"iocs":{"file":{"tousanticovid.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"0ab6112b07b5c5c9cd0399c202b55c781ddf07539b13f90e12659e209d623500":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-08 00:00:00","id":785987832317272065}}
