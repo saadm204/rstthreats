@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"bancaonline.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"7e2abeb9532163b5cd80ff7b1ed68296a7de8a8f873d67ff844cd56071a2b1a2":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-11 00:00:00","id":787074997256249346}}

@@ -1,0 +1,1 @@
+{"formbook":{"iocs":{"file":{"mscorsvw.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-12-11 00:00:00","id":787074997268832258}}
