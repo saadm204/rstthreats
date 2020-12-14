@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"google_hesap_servisi.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"ee841bd8b3342a615e1765425c31f76c2b7d1a3d2fe8ee7624ddfb68594f0f9d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-13 00:00:00","id":787799769413902336}}
