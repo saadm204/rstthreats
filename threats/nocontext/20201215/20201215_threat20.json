@@ -1,0 +1,1 @@
+{"threat20":{"iocs":{"file":{"thisisfine.jpg":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{}},"tags":[],"collect":"2020-12-15 00:00:00","id":788524551042293761}}
