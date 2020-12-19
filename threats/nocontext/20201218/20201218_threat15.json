@@ -1,0 +1,1 @@
+{"threat15":{"iocs":{"file":{"d5.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8cdd544352ff17050013f670b299ee18bf1b1d7a4411b7045d96856255b8a8dc":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-18 00:00:00","id":789611720959909895}}

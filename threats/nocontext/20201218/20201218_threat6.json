@@ -1,0 +1,1 @@
+{"threat6":{"iocs":{"file":{"client.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"49377092c3186d1407094bb7371976b568d4908ad7fde6ac5dbe0c4129036276":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-18 00:00:00","id":789611720955715585}}
