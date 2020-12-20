@@ -1,0 +1,1 @@
+{"threat0":{"iocs":{"file":{"snapchat.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"d0b5ed49695dc589c21a1f8657aab56b9b9539897b9c0d029e1da10638d380ba":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-19 00:00:00","id":789974104773812224}}

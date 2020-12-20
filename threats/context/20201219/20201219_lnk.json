@@ -1,0 +1,1 @@
+{"lnk":{"iocs":{"file":{"schedule.pdf.lnk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"drive.google.com/file/d/181-q9-uvohzqyuhlscssmv6dsbymxsqs/view":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-12-19 00:00:00","id":789974104786395139}}
