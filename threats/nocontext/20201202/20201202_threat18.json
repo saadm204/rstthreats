@@ -1,1 +1,0 @@
-{"threat18":{"iocs":{"file":{"telegram_align.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"cb3b060bd989a4f0c9ca41a8b8803adcab2e29dbfbab7877776fd569b5fb29d7":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-02 00:00:00","id":783813514787348482}}

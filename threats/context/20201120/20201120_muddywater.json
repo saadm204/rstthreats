@@ -1,1 +1,0 @@
-{"muddywater":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"107.175.196.104:443/getcommand?guid=":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-11-20 00:00:00","id":779464855195017216}}

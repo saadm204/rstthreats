@@ -1,1 +1,0 @@
-{"threat14":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"document.pallix.services/?verify":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-12-18 00:00:00","id":789611720959909890}}

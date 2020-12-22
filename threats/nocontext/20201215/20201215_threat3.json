@@ -1,1 +1,0 @@
-{"threat3":{"iocs":{"file":{"destek_paketim.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"52.231.67.213/destek_paketim.apk":{"type":"url","role":"unknown"}},"hash":{"3ce1c82841db70c44df3b6c92047f9afdcf7cb8e63328e8b53d52a5b0ec358ae":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-15 00:00:00","id":788524551046488071}}

@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{"unr20.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"chatsafe.tecnova.com.br/helpingpeople/unr20.apk":{"type":"url","role":"unknown"}},"hash":{"d02b48fe9701685477ac0042ad2f188026a284458f261e81d2e73ba4466efe56":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-15 00:00:00","id":788524551046488070}}

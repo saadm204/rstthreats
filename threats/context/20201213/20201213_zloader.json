@@ -1,1 +1,0 @@
-{"zloader":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"0e70968a9326d7abc103c04b4c355649c837c69c92b83af9ac4e2c1c123f0948":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-12-13 00:00:00","id":787799769405513728}}

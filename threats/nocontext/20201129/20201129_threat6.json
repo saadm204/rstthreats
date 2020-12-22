@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"windown-network.myq-see.com:1312/try-connect":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-11-29 00:00:00","id":782726343934402562}}

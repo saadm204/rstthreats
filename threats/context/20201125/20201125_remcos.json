@@ -1,1 +1,0 @@
-{"remcos":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"185.185.3.40:2404:pass":{"type":"url","role":"c2"}},"hash":{"9128e156ef2c0ed95d615729316ff82615354d6509e30a2e931913cb574dd4dc":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-11-25 00:00:00","id":781276795718393859}}

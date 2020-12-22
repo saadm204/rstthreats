@@ -1,1 +1,0 @@
-{"cobaltstrike":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"basiliskbank.com/api/func":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware","rat"],"descr":"Cobalt Strike is a paid penetration testing product that allows an attacker to deploy an agent named Beacon on the victim machine.","collect":"2020-12-02 00:00:00","id":783813514816708611}}

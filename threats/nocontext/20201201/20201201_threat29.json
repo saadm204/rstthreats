@@ -1,1 +1,0 @@
-{"threat29":{"iocs":{"file":{"com.credemmobile.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"db2d8aa091a8b26c4282e621715cc6973070c8f2d56823b0f353d5373a1334e8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-01 00:00:00","id":783451121494319106}}

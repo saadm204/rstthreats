@@ -1,1 +1,0 @@
-{"threat3":{"iocs":{"file":{"update_4-6-09.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"applicationupdate.digital/update_4-6-09.apk":{"type":"url","role":"unknown"}},"hash":{"2af428628fc8437fdb6635f8002b10160765977cf6e46bf7304639e78158e86a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-22 00:00:00","id":780189629168803840}}

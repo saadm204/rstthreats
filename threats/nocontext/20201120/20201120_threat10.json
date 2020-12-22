@@ -1,1 +1,0 @@
-{"threat10":{"iocs":{"file":{"easybank.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"53cbb7f8925e05f01b1b933e09fde943dfd15c35791ffa2560e60f2976c39df7":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-20 00:00:00","id":779464855211794444}}

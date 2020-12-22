@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"195.3.146.180/cia.exe":{"type":"url","role":"unknown"}},"hash":{"30303b663e0b7b9824cc59298b36f824b607b4fb85de53af6aac3a023d895513":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-26 00:00:00","id":781639183227478019}}

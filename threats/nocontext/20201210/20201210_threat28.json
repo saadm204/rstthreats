@@ -1,1 +1,0 @@
-{"threat28":{"iocs":{"file":{"app.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"107.172.195.114/app.apk":{"type":"url","role":"unknown"}},"hash":{"9b1e348a805289bffd0a8fcab22c6f42a200353001b9b0c254a80f37a6be21ae":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-10 00:00:00","id":786712615669522436}}

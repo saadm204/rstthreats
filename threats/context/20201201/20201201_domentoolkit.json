@@ -1,1 +1,0 @@
-{"domentoolkit":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"browsertelemetry.tk/admin/login":{"type":"url","role":"unknown"}},"hash":{"2d2a494f761dcc19ea6b436879c11a9cd5ab04278b227136a7400ab0e41be743":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-12-01 00:00:00","id":783451121477541888}}

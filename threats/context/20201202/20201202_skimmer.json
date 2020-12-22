@@ -1,1 +1,0 @@
-{"skimmer":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"jquerylib-min.net/js/mer01.js":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-12-02 00:00:00","id":783813514808320006}}

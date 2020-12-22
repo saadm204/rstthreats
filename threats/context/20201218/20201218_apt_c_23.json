@@ -1,1 +1,0 @@
-{"apt_c_23":{"iocs":{"file":{"police.pdf.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-12-18 00:00:00","id":789611720938938368}}

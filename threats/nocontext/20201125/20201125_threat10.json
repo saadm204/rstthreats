@@ -1,1 +1,0 @@
-{"threat10":{"iocs":{"file":{"eliteantivirus.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5bd5dd3105e4c33e245c24f3c70c5ff28408dd5c49251dbeee6202f18de4bc67":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-25 00:00:00","id":781276795722588165}}

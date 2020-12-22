@@ -1,1 +1,0 @@
-{"phishing":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"rkpearson877ee.000webhostapp.com/mmmmm.html":{"type":"url","role":"unknown"}},"hash":{}},"tags":["phishing"],"descr":"Phishing company","collect":"2020-11-20 00:00:00","id":779464855211794436}}

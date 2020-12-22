@@ -1,1 +1,0 @@
-{"threat12":{"iocs":{"file":{"whatsapp.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"c2c1d804aeed1913f858df48bf89a58b1f9819d7276a70b50785cf91c9d34083":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-13 00:00:00","id":787799769409708036}}

@@ -1,1 +1,0 @@
-{"threat9":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"bit.ly/3oc4dcw":{"type":"url","role":"unknown"},"95.216.88.43/files/google%20keep.apk":{"type":"url","role":"unknown"}},"hash":{"24f7bd8be97514ea67e730791948a884698b900006407b6280a84097e9203674":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-12 00:00:00","id":787437383498653700}}

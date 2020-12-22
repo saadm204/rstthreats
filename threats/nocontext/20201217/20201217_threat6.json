@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{"poczta_o2.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"e19da4f54487e51536a600038a81422d46a38668f778a051d823aa78620f0c47":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-17 00:00:00","id":789249324483403783}}

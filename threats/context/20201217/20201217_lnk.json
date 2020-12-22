@@ -1,1 +1,0 @@
-{"lnk":{"iocs":{"file":{"announcement.pdf.lnk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"drive.google.com/file/d/1wdru9w9b_47uundpnr0jl1do2hy9e5dp/view":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-12-17 00:00:00","id":789249324491792384}}

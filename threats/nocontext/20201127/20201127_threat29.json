@@ -1,1 +1,0 @@
-{"threat29":{"iocs":{"file":{"cyberpunk2077.exe":{"type":"file","role":"unknown"},"cyberpunk2077.sfx.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"08124c7d2c97ffd108f1b7c9bba86aaeff5a41d16c77fcf11b3a8c9504f93424":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-27 00:00:00","id":782001568274505730}}

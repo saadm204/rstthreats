@@ -1,1 +1,0 @@
-{"threat4":{"iocs":{"file":{"3500turkliras.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"e3648037bc75dec0bae81cea69d7fc1daef58415011a4916b8c9a45b861eaeed":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-22 00:00:00","id":780189629168803841}}

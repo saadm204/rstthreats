@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"ok.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"e5bf969569c8e4d4ad93f5f6a6b8004bebc58187238a3f0085209004e6be12f6":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-01 00:00:00","id":783451121481736192}}

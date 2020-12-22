@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{"update-4-6-03.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"newflashplayer.club/update-4-6-03.apk":{"type":"url","role":"unknown"}},"hash":{"8964ce5d3f659aec701de12ae28d87740c753a5123404aa7044f6ea8892ac8a6":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-18 00:00:00","id":789611720938938375}}

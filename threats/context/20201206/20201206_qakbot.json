@@ -1,1 +1,0 @@
-{"qakbot":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8c4b601938850ae85f6faea32989b6d4cb28cbc9b7711ef0a32a05442003b023":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-12-06 00:00:00","id":785263051913617409}}

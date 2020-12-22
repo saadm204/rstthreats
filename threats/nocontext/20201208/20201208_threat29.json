@@ -1,1 +1,0 @@
-{"threat29":{"iocs":{"file":{"deutschebank.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"40251cb56b9fe6006d0c830c2ffc097cf4552f60fcac64081ae23612e8377073":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-08 00:00:00","id":785987832317272069}}

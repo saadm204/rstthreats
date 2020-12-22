@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"penta01.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"94.156.144.84/penta01.apk":{"type":"url","role":"unknown"}},"hash":{"53e8cc1af83770a4e562f46f3df4af41a9dd8a51d3793e7f3844364e9bcb5a14":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-20 00:00:00","id":779464855207600132}}

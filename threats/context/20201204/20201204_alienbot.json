@@ -1,1 +1,0 @@
-{"alienbot":{"iocs":{"file":{"gt.dex":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-12-04 00:00:00","id":784538279168761856}}

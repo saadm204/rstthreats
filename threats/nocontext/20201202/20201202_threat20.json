@@ -1,1 +1,0 @@
-{"threat20":{"iocs":{"file":{"mcutil.dll":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8098b6943011b2854884a3e938ef36587ed0a32d2ea92952fb0cac5668b0bc87":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-02 00:00:00","id":783813514774765569}}

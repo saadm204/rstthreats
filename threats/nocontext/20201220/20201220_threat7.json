@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"restaurant.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"bd7779e6100e07b3eae67bfcdc53f1f08468651240229e284cca60e2b953496b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-20 00:00:00","id":790336490726809607}}

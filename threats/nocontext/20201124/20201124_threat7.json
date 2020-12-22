@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"adobe_flash_2020v32704.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"scoopzyxi.ru/mms3/download_2.php":{"type":"url","role":"unknown"}},"hash":{"c36021eb1324a1f32642f855467477d8d802962ac96bc6cdc9b5a6336cfef203":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-24 00:00:00","id":780914401909465095}}

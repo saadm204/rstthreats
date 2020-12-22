@@ -1,1 +1,0 @@
-{"threat8":{"iocs":{"file":{"android_update10.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"sundarbannews24.com/mir/android_update10.apk":{"type":"url","role":"unknown"}},"hash":{"386aaefa3e644ef02171500a0fe22f8abb602850b0a4db7d1caa5c8cc452ef20":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-11 00:00:00","id":787074997260443653}}

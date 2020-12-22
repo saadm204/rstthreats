@@ -1,1 +1,0 @@
-{"threat33":{"iocs":{"file":{"whsapp.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"cd361f4f5cfd28c11a9e305f841cc173a04911fbf37ef8cad798a37a4ebe2a69":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-03 00:00:00","id":784175890011316227}}

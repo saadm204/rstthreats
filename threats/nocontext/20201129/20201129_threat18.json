@@ -1,1 +1,0 @@
-{"threat18":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"83.220.168.237/admin/login.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-11-29 00:00:00","id":782726343921819651}}

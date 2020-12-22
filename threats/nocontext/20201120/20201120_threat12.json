@@ -1,1 +1,0 @@
-{"threat12":{"iocs":{"file":{"woori.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"114.43.113.63/woori.apk":{"type":"url","role":"unknown"}},"hash":{"e2cececd0b9e55db9c636e90f8d1f4fd458dcf5b5c9502ae8898cf69f7161b52":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-20 00:00:00","id":779464855215988736}}

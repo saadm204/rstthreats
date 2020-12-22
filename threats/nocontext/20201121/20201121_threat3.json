@@ -1,1 +1,0 @@
-{"threat3":{"iocs":{"file":{"gate.php":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"45.15.143.167/login.php":{"type":"url","role":"unknown"},"185.136.169.200/asnbot/login.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-11-21 00:00:00","id":779827241953320969}}

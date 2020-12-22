@@ -1,1 +1,0 @@
-{"threat11":{"iocs":{"file":{"update-4-6-08.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"applicationupdate.network/update-4-6-08.apk":{"type":"url","role":"unknown"}},"hash":{"a92db745b9ab9fbbde0d089ac8b948c339eaeacdcbe815e03ee45729e73d4657":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-11-25 00:00:00","id":781276795722588167}}
