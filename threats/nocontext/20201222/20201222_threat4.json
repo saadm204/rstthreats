@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"security-check-whatsapp.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"42428df0f732502e75e19ab5a94868395972e5f3bd92483d46230fe2ca4f91fb":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-22 00:00:00","id":791061274347495425}}

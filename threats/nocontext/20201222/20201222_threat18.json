@@ -1,0 +1,1 @@
+{"threat18":{"iocs":{"file":{"android-update.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5e0311fb1d8dda6b5da28fa3348f108ffa403f3a3cf5a28fc38b12f3cab680a0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-22 00:00:00","id":791061274334912512}}

@@ -1,0 +1,1 @@
+{"maldoc":{"iocs":{"file":{},"ip":{},"domain":{},"email":{"kenanibr@yandex.ru":{"type":"email","role":"unknown"}},"url":{"192.227.129.4/ara.exe":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-12-22 00:00:00","id":791061274364272640}}
