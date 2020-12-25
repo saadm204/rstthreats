@@ -1,0 +1,1 @@
+{"threat19":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"federalreserve.gov.newcreditbank.co.uk/index2.php?c=login":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2020-12-24 00:00:00","id":791786044705792000}}
