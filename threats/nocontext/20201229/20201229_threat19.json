@@ -1,0 +1,1 @@
+{"threat19":{"iocs":{"file":{"wp_poczta.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"209.141.40.93/wp_poczta.apk":{"type":"url","role":"unknown"}},"hash":{"20b02605a5271b72648d97a7aa687672992256d78b74fece81812a090c62c5c1":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-29 00:00:00","id":793597981592707076}}

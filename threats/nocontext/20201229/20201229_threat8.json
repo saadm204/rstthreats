@@ -1,0 +1,1 @@
+{"threat8":{"iocs":{"file":{"correos.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"2f25804f8e67e0f9fc6c51b630805536a46e344e594a55cbccecabdcd5742929":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-29 00:00:00","id":793597981596901377}}
