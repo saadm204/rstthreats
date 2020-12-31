@@ -1,0 +1,1 @@
+{"threat10":{"iocs":{"file":{"blokada.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"stevesplex.com/stuff/blokada.apk":{"type":"url","role":"unknown"}},"hash":{"05f91a7bac623965da8c47ef2fcb2579cdb5402c1cd49e5083663cbea5f51cdb":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-30 00:00:00","id":793960374969622545}}

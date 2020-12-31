@@ -1,0 +1,1 @@
+{"threat18":{"iocs":{"file":{"instagramfollowerbot.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"e0f575c69a2ff342c2ab281e26d0c9d2fc05e253f67e4a347e73617f4cea1980":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-30 00:00:00","id":793960374965428224}}

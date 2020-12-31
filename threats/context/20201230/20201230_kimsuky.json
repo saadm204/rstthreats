@@ -1,0 +1,1 @@
+{"kimsuky":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"naversecurity.us/haw/up.php":{"type":"url","role":"c2"},"naversecurity.us/haw/files/to_xxxxxxxxxxxxxxxxx.txt":{"type":"url","role":"c2"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2020-12-30 00:00:00","id":793960374948651009}}
