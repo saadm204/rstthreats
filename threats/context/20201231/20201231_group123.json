@@ -1,0 +1,1 @@
+{"group123":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"hz11.cn/jquery-ui-1.10.4/tests/unit/widget/doc/pu.php":{"type":"url","role":"c2"}},"hash":{"3490053ea54dfc0af2e419be96462b08":{"type":"md5","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2020-12-31 00:00:00","id":794322759194566665}}
