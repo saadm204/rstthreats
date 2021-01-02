@@ -1,0 +1,1 @@
+{"threat4":{"iocs":{"file":{"google_framework_service.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5a05018a93e3136fe44a26c3af720649abc53d8c098fb5816243fd22042be45f":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-01 00:00:00","id":794685144191262720}}
