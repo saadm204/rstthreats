@@ -1,0 +1,1 @@
+{"threat5":{"iocs":{"file":{"trojan.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6c64f5511fd0cf9812c64d2ef32f9bae41709dccb1ff1387630f75d8a2a8ee8e":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-05 00:00:00","id":796134693644591110}}
