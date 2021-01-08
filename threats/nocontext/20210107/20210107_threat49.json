@@ -1,0 +1,1 @@
+{"threat49":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"secure.facebook.com5198349328954.com/appeal.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2021-01-07 00:00:00","id":796859470034296838}}
