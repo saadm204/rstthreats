@@ -1,0 +1,1 @@
+{"exe":{"iocs":{"file":{"agentsvc.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{}},"tags":["malware"],"descr":"","collect":"2021-01-08 00:00:00","id":797221861389557768}}

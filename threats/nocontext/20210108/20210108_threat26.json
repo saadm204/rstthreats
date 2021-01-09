@@ -1,0 +1,1 @@
+{"threat26":{"iocs":{"file":{"service.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"0d7ddb587cc58f1e34143136128f2fdaae5f4a009dbe2e26d7bd626cace930d8":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-08 00:00:00","id":797221861389557763}}
