@@ -1,0 +1,1 @@
+{"threat52":{"iocs":{"file":{"tiktokauto.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"2f3d60aff299ba0ea984d5fd35fb4a0189bc2bebc599f1b96d39502f18b5af36":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-09 00:00:00","id":797584248256913413}}
