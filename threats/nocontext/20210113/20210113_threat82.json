@@ -1,0 +1,1 @@
+{"threat82":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"69.90.132.215/open/?lm={randvalue2}&amp":{"type":"url","role":"unknown"},"69.90.132.215/watch/?lm={randvalue1}&amp":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2021-01-13 00:00:00","id":799033797076901902}}

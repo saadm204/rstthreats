@@ -1,0 +1,1 @@
+{"threat36":{"iocs":{"file":{"reklam_engelleyici.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"13a8b6ee5b954bfbb8b3b6a5c35519ad42d472abe86b319cf560c623782d4763":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-13 00:00:00","id":799033797076901891}}

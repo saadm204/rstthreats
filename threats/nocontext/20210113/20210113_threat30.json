@@ -1,0 +1,1 @@
+{"threat30":{"iocs":{"file":{"qchat.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"0b94961ae12dd593bd4844e5db306c78ef32e4b26821100926cc84e7a45b3432":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-13 00:00:00","id":799033797076901890}}
