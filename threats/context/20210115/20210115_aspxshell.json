@@ -1,0 +1,1 @@
+{"aspxshell":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8043c6e7e430da4d2cb556c7da1cb2e8a96f82d1028f5237f3feb6109007ac24":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2021-01-15 00:00:00","id":799758582593413128}}
