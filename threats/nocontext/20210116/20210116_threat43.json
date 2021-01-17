@@ -1,0 +1,1 @@
+{"threat43":{"iocs":{"file":{"update_4_6_02.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"flashplayerinstall.digital/update_4_6_02.apk":{"type":"url","role":"unknown"}},"hash":{"e82147b822b1bad3177b1a3bb602088e7751d8fcefe7d066f8375b77c05a4620":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-16 00:00:00","id":800120966935797766}}
