@@ -1,0 +1,1 @@
+{"threat41":{"iocs":{"file":{"app.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"688f1b72f746935d31d379e46d2dd75146a5683a0baa986c3ee614305eb2c69c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-19 00:00:00","id":801208130520014848}}

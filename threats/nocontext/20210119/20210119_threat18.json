@@ -1,0 +1,1 @@
+{"threat18":{"iocs":{"file":{"yatalk.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"335753114db81b531c6870445c2a0385f0bfa0caeb433eb9465ac1ef4ddeea3d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-19 00:00:00","id":801208130507431936}}
