@@ -1,0 +1,1 @@
+{"threat42":{"iocs":{"file":{"tryyy.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"5672ab8f7a34f4909bf7e7108ef04a79944ce1e2330764d06f7fe8268b0e6d8c":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-21 00:00:00","id":801932902556033032}}
