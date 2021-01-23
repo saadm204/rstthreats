@@ -1,1 +1,0 @@
-{"threat13":{"iocs":{"file":{"eugene.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"652d93eff67cb6ca7f50d8b1fd89652e6878c9e7173cb211baf64d7ce5756b1b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-29 00:00:00","id":793597981601095683}}

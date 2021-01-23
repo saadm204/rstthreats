@@ -1,1 +1,0 @@
-{"threat52":{"iocs":{"file":{"pandemidestek.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6c1b4d3aa135656f821f14c97fc95c8ef64457b514834255875effb6f4961620":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-17 00:00:00","id":800483354830757892}}

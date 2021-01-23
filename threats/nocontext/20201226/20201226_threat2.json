@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{"ransomware.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"14e7fbd2856eee84d06ccb44c6318f5d95a4e8d8744685c8ac09062b9f8fcec5":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-26 00:00:00","id":792510820969668610}}

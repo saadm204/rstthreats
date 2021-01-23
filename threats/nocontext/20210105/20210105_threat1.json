@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"lancosi928.tech/one.exe":{"type":"url","role":"unknown"}},"hash":{"19ff4b97f4df0003193de7aa27682e69":{"type":"md5","role":"unknown"}}},"tags":[],"collect":"2021-01-05 00:00:00","id":796134693644591105}}

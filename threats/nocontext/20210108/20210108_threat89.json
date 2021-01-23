@@ -1,1 +1,0 @@
-{"threat89":{"iocs":{"file":{"g.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"07ebe38795cfe0388975fd1a07c179a5f8abe8539de2ee575c55fb2d38c03e87":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-08 00:00:00","id":797221861410529280}}

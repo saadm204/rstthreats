@@ -1,1 +1,0 @@
-{"threat35":{"iocs":{"file":{"threema-4.43.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"2ee8326a4fa63effda4e9bcb519fe6e9896ea08c2f5e139af66475b214c125de":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-16 00:00:00","id":800120966885466117}}

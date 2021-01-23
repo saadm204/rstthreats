@@ -1,1 +1,0 @@
-{"threat13":{"iocs":{"file":{"astekbet_spor_casino.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"eef70863ed91a50683a163cc991c37ddb8b37608947c80e3cd0025da3d8c555a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-22 00:00:00","id":791061274360078337}}

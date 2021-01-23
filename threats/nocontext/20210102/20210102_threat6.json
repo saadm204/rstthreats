@@ -1,1 +1,0 @@
-{"threat6":{"iocs":{"file":{"govlaptops.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"54233ca488ce498956cd6dbbb3d5d6492ebb1fc6477b14b34b53b16a04b1d7c4":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-02 00:00:00","id":795047534263066625}}

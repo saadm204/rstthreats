@@ -1,1 +1,0 @@
-{"threat14":{"iocs":{"file":{"payload.ps1":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6e8dec6420254b4343497fbc31f50e863a102c2b06e859453af36a6b99a81080":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-26 00:00:00","id":792510820982251520}}

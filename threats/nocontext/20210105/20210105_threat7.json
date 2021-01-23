@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"sms.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"9d09788543b16ee59c469199cb0ef78891d8c66981169f0a6720fda8d4eeff9a":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-05 00:00:00","id":796134693644591112}}

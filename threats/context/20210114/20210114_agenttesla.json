@@ -1,1 +1,0 @@
-{"agenttesla":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"paste.ee/r/wnwxq":{"type":"url","role":"unknown"},"64.188.18.218/webpanel-trade/inc/eea5c8636b504d.php":{"type":"url","role":"c2"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2021-01-14 00:00:00","id":799396194459377671}}

@@ -1,1 +1,0 @@
-{"threat69":{"iocs":{"file":{"parler_update.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"c55f70842ee75369ce007d3e5bca04382f4fd8e72f9136a06ce7dd701abfde10":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-19 00:00:00","id":801208130503237632}}

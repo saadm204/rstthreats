@@ -1,1 +1,0 @@
-{"threat34":{"iocs":{"file":{"bam.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"bamharmrah.site/bam.apk":{"type":"url","role":"unknown"}},"hash":{"a5657d914de9840f20bbc14b431b614dbeca5040148a569489a761a29cfbef46":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-14 00:00:00","id":799396194438406144}}

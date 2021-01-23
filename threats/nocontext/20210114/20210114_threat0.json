@@ -1,1 +1,0 @@
-{"threat0":{"iocs":{"file":{"update_4_6_05.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"flashplayermanager.club/update_4_6_05.apk":{"type":"url","role":"unknown"}},"hash":{"cbf09eed7b645b648ec9ae818dffe30048e4e9f9379576eff30484ce9d4675b0":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-14 00:00:00","id":799396194421628938}}

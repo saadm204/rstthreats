@@ -1,1 +1,0 @@
-{"threat10":{"iocs":{"file":{"cyber.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"76cc173579c7bc6d48ccb67b3ca06466d36968d95c6e1ba44e560258964f5a64":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-22 00:00:00","id":791061274364272643}}

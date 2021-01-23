@@ -1,1 +1,0 @@
-{"threat26":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"github.com/avtoklab2/chrome":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2021-01-10 00:00:00","id":797946636361588741}}

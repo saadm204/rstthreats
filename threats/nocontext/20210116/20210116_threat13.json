@@ -1,1 +1,0 @@
-{"threat13":{"iocs":{"file":{"immuni.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"2f85c43fd8820bf1bd4a095bc049e66fa054d2d569b3d8bc699e41c463812b29":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-16 00:00:00","id":800120966956769289}}

@@ -1,1 +1,0 @@
-{"threat23":{"iocs":{"file":{"teatv.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"8ad4ef1b4e1bf38400e9d659ab3af4e1b38b8e986b9f88668105e2d53e2072ab":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-14 00:00:00","id":799396194421628933}}

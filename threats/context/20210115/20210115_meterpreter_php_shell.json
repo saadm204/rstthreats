@@ -1,1 +1,0 @@
-{"meterpreter_php_shell":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{},"hash":{"b240de97f765dd551b8c777852984e4f47e5739b00a374f3e80536643fb5945d":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2021-01-15 00:00:00","id":799758582706659331}}

@@ -1,1 +1,0 @@
-{"threat26":{"iocs":{"file":{"flashplayerupdate.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{"pornohdcenter.com/flashplayerupdate.apk":{"type":"url","role":"unknown"}},"hash":{"d927fddc84d4f06c2879487756c89c89bf99848e4bec39e5aad0da6a0c53f1a9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-19 00:00:00","id":801208130503237636}}

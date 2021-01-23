@@ -1,1 +1,0 @@
-{"threat20":{"iocs":{"file":{"shinvest2.0.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"6d29817636bd1eb314dfe5170765ef59f21c44054fb60049ade96e8becacc15d":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-14 00:00:00","id":799396194421628932}}

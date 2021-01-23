@@ -1,1 +1,0 @@
-{"threat7":{"iocs":{"file":{"googleupdate54_0_1.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"ba6d7ea28de7d547a821e5f3f0dbd5433f4622f69a23ae80d47dfe425e37b3d9":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2020-12-22 00:00:00","id":791061274351689730}}

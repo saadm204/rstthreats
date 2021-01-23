@@ -1,1 +1,0 @@
-{"threat59":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"hanabaf.ga/maindomain.txt":{"type":"url","role":"unknown"}},"hash":{"16cbbc5b747ee165de4b66fb2fc47498799bea57c2dbdb7ef09c6dc26954cec4":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-17 00:00:00","id":800483354834952194}}

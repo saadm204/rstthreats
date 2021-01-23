@@ -1,1 +1,0 @@
-{"threat55":{"iocs":{"file":{"beacon.exe":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"566aa77fe83a1964a7f44ca69b1477a50b1f93ab42df4b137c7177cb38531368":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-21 00:00:00","id":801932902577004550}}

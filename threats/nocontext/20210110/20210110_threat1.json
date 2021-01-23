@@ -1,1 +1,0 @@
-{"threat1":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"hosting001.online/06-01-2021":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2021-01-10 00:00:00","id":797946636365783045}}

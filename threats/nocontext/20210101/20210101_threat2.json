@@ -1,1 +1,0 @@
-{"threat2":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"84.252.95.236/verma/login/login.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2021-01-01 00:00:00","id":794685144178679808}}

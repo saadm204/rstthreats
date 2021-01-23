@@ -1,1 +1,0 @@
-{"threat50":{"iocs":{"file":{"af_news.apk":{"type":"file","role":"unknown"}},"ip":{},"domain":{},"email":{},"url":{},"hash":{"f155131f21cb1fbabc5e1d4e29858caea240bc30a38826ce0671c27eb231cb0b":{"type":"sha256","role":"unknown"}}},"tags":[],"collect":"2021-01-21 00:00:00","id":801932902572810242}}

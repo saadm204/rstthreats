@@ -1,1 +1,0 @@
-{"threat40":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"www.notion.so/microsoft-faabe8a20a8d465fbb09f5c3d597f0f6":{"type":"url","role":"unknown"},"oximedica.com/han/index.html":{"type":"url","role":"unknown"},"rockerfellerenterprises.com/see/log.php":{"type":"url","role":"unknown"}},"hash":{}},"tags":[],"collect":"2021-01-15 00:00:00","id":799758582605996035}}

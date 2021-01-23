@@ -1,1 +1,0 @@
-{"alienbot":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"s3.us-east-2.amazonaws.com/ethos-file-repo/immuni.apk":{"type":"url","role":"unknown"}},"hash":{"2f85c43fd8820bf1bd4a095bc049e66fa054d2d569b3d8bc699e41c463812b29":{"type":"sha256","role":"unknown"}}},"tags":["malware"],"descr":"","collect":"2021-01-20 00:00:00","id":801570534445604865}}

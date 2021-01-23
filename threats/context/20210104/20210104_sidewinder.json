@@ -1,1 +1,0 @@
-{"sidewinder":{"iocs":{"file":{},"ip":{},"domain":{},"email":{},"url":{"paf.gov-mail.net/13621/1/18844/2/0/0/1390324815/files-b74d99d6/hta":{"type":"url","role":"unknown"}},"hash":{}},"tags":["malware"],"descr":"","collect":"2021-01-04 00:00:00","id":795772305690910722}}
